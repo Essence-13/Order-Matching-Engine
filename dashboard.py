@@ -6,7 +6,7 @@ from streamlit_autorefresh import st_autorefresh
 st.set_page_config(layout="wide")
 st.title("📈 Order Matching Engine Dashboard")
 
-# Refresh every 5 seconds
+# Refresh every 0.5 seconds
 st_autorefresh(interval=500, key="auto-refresh")
 
 # Load data
