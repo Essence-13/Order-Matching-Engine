@@ -54,7 +54,7 @@ private:
     // Tracking structures
     unordered_map<int, pair<int, OrderType>> idToPriceAndType;
     unordered_map<int, OrderStatus> orderStatus;
-    unordered_map<int, queue<Order>*> idToOrderQueue;  // For O(1) cancellation
+    unordered_map<int, queue<Order>*> idToOrderQueue; 
     
     // File handles
     ofstream logFile;
@@ -69,12 +69,12 @@ private:
 
 public:
     OrderBook() {
-        // Initialize with proper error handling
+        
         try {
             loadOrders(BUY_ORDERS_FILE, OrderType::BUY);
             loadOrders(SELL_ORDERS_FILE, OrderType::SELL);
             
-            // Open log files with proper headers if empty
+        
             logFile.open(TRADES_FILE, ios::app);
             if (logFile.tellp() == 0) {
                 logFile << "TradeID,BuyOrderID,SellOrderID,Price,Quantity,Timestamp\n";
@@ -426,7 +426,7 @@ private:
                 orderId = max(orderId, o.id);
                 time = max(time, o.timestamp);
                 
-                // Track for O(1) cancellation
+             
                 idToOrderQueue[o.id] = type == OrderType::BUY ? 
                     &buyOrders[o.price] : &sellOrders[o.price];
                     
