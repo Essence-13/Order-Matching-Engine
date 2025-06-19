@@ -13,7 +13,7 @@ string randomOrderType() {
 }
 
 int randomPrice() {
-    return 750 + rand() % 551;  // Prices between 950 and 1049
+    return 750 + rand() % 551;  // Prices between 750 and 1300
 }
 
 int randomQuantity() {
@@ -33,7 +33,7 @@ int main() {
         return 1;
     }
 
-    out << "book\n"; // Optional: show book initially
+    out << "book\n"; //  show book initially
 
     for (int i = 0; i < numOrders; ++i) {
         string type = randomOrderType();
@@ -42,14 +42,14 @@ int main() {
         out << type << " "  << price << " " << qty << "\n";
     }
 
-    out << "book\n";   // Optional: show book again
+    out << "book\n";   // show book again
     out << "log\n";    // View trades
     out << "exit\n";   // Exit the engine cleanly
     out.close();
 
     cout << "✅ Generated " << numOrders << " orders in input_orders.txt\n";
-    cout << "📦 To run with your engine:\n";
-    cout << "./engine < input_orders.txt\n";
+    // cout << "📦 To run with your engine:\n";
+    // cout << "./engine < input_orders.txt\n";
 
     return 0;
 }
