@@ -1,0 +1,919 @@
+2025-10-21 18:55:30 [System] Order book initialized
+2025-10-21 20:45:05 [System] Order book initialized
+2025-10-21 20:45:05 [Order] Placing SELL order ID 4999 for 55 @ 1180
+2025-10-21 20:45:05 [Order] Placing SELL order ID 5000 for 77 @ 1277
+2025-10-21 20:45:05 [Order] Placing BUY order ID 5001 for 26 @ 1068
+2025-10-21 20:45:05 [Order] Placing SELL order ID 5002 for 13 @ 1139
+2025-10-21 20:45:05 [Order] Placing SELL order ID 5003 for 16 @ 758
+2025-10-21 20:45:05 [Trade] Matched 16 units at price 1068 (Buy:5001 Sell:5003)
+2025-10-21 20:45:05 [Order] Placing BUY order ID 5004 for 50 @ 1213
+2025-10-21 20:45:05 [Trade] Matched 13 units at price 1139 (Buy:5004 Sell:5002)
+2025-10-21 20:45:05 [Trade] Matched 37 units at price 1180 (Buy:5004 Sell:4999)
+2025-10-21 20:45:05 [Order] Placing BUY order ID 5005 for 63 @ 918
+2025-10-21 20:45:05 [Order] Placing BUY order ID 5006 for 50 @ 1082
+2025-10-21 20:45:06 [Order] Placing BUY order ID 5007 for 100 @ 940
+2025-10-21 20:45:06 [Order] Placing SELL order ID 5008 for 75 @ 1026
+2025-10-21 20:45:06 [Trade] Matched 50 units at price 1082 (Buy:5006 Sell:5008)
+2025-10-21 20:45:06 [Trade] Matched 10 units at price 1068 (Buy:5001 Sell:5008)
+2025-10-21 20:45:06 [Trade] Matched 15 units at price 1027 (Buy:4991 Sell:5008)
+2025-10-21 20:45:06 [Order] Placing SELL order ID 5009 for 17 @ 1170
+2025-10-21 20:45:06 [Order] Placing BUY order ID 5010 for 98 @ 929
+2025-10-21 20:45:06 [Order] Placing SELL order ID 5011 for 37 @ 1153
+2025-10-21 20:45:06 [Order] Placing BUY order ID 5012 for 65 @ 1113
+2025-10-21 20:45:06 [Order] Placing BUY order ID 5013 for 37 @ 1126
+2025-10-21 20:45:06 [Order] Placing SELL order ID 5014 for 45 @ 770
+2025-10-21 20:45:06 [Trade] Matched 37 units at price 1126 (Buy:5013 Sell:5014)
+2025-10-21 20:45:06 [Trade] Matched 8 units at price 1113 (Buy:5012 Sell:5014)
+2025-10-21 20:45:06 [Order] Placing BUY order ID 5015 for 99 @ 998
+2025-10-21 20:45:06 [Order] Placing BUY order ID 5016 for 86 @ 1024
+2025-10-21 20:45:06 [Order] Placing SELL order ID 5017 for 58 @ 893
+2025-10-21 20:45:06 [Trade] Matched 57 units at price 1113 (Buy:5012 Sell:5017)
+2025-10-21 20:45:06 [Trade] Matched 1 units at price 1027 (Buy:4991 Sell:5017)
+2025-10-21 20:45:06 [Order] Placing SELL order ID 5018 for 84 @ 1243
+2025-10-21 20:45:06 [Order] Placing SELL order ID 5019 for 33 @ 949
+2025-10-21 20:45:06 [Trade] Matched 33 units at price 1027 (Buy:4991 Sell:5019)
+2025-10-21 20:45:06 [Order] Placing SELL order ID 5020 for 58 @ 1174
+2025-10-21 20:45:06 [Order] Placing SELL order ID 5021 for 11 @ 1155
+2025-10-21 20:45:06 [Order] Placing BUY order ID 5022 for 73 @ 1269
+2025-10-21 20:45:06 [Trade] Matched 37 units at price 1153 (Buy:5022 Sell:5011)
+2025-10-21 20:45:06 [Trade] Matched 11 units at price 1155 (Buy:5022 Sell:5021)
+2025-10-21 20:45:06 [Trade] Matched 17 units at price 1170 (Buy:5022 Sell:5009)
+2025-10-21 20:45:06 [Trade] Matched 8 units at price 1174 (Buy:5022 Sell:5020)
+2025-10-21 20:45:06 [Order] Placing BUY order ID 5023 for 12 @ 1261
+2025-10-21 20:45:06 [Trade] Matched 12 units at price 1174 (Buy:5023 Sell:5020)
+2025-10-21 20:45:06 [Order] Placing BUY order ID 5024 for 44 @ 1072
+2025-10-21 20:45:06 [Order] Placing BUY order ID 5025 for 20 @ 1166
+2025-10-21 20:45:06 [Order] Placing BUY order ID 5026 for 39 @ 1018
+2025-10-21 20:45:06 [Order] Placing SELL order ID 5027 for 34 @ 829
+2025-10-21 20:45:06 [Trade] Matched 20 units at price 1166 (Buy:5025 Sell:5027)
+2025-10-21 20:45:06 [Trade] Matched 14 units at price 1072 (Buy:5024 Sell:5027)
+2025-10-21 20:45:06 [Order] Placing BUY order ID 5028 for 75 @ 1190
+2025-10-21 20:45:06 [Trade] Matched 38 units at price 1174 (Buy:5028 Sell:5020)
+2025-10-21 20:45:06 [Trade] Matched 18 units at price 1180 (Buy:5028 Sell:4999)
+2025-10-21 20:45:06 [Order] Placing SELL order ID 5029 for 18 @ 1039
+2025-10-21 20:45:06 [Trade] Matched 18 units at price 1190 (Buy:5028 Sell:5029)
+2025-10-21 20:45:06 [Order] Placing BUY order ID 5030 for 36 @ 839
+2025-10-21 20:45:06 [Order] Placing BUY order ID 5031 for 48 @ 880
+2025-10-21 20:45:06 [Order] Placing BUY order ID 5032 for 17 @ 758
+2025-10-21 20:45:06 [Order] Placing SELL order ID 5033 for 37 @ 1162
+2025-10-21 20:45:06 [Trade] Matched 1 units at price 1190 (Buy:5028 Sell:5033)
+2025-10-21 20:45:06 [Order] Placing SELL order ID 5034 for 19 @ 1067
+2025-10-21 20:45:06 [Trade] Matched 19 units at price 1072 (Buy:5024 Sell:5034)
+2025-10-21 20:45:06 [Order] Placing BUY order ID 5035 for 80 @ 798
+2025-10-21 20:45:07 [Order] Placing SELL order ID 5036 for 41 @ 1232
+2025-10-21 20:45:07 [Order] Placing BUY order ID 5037 for 99 @ 848
+2025-10-21 20:45:07 [Order] Placing BUY order ID 5038 for 35 @ 1190
+2025-10-21 20:45:07 [Trade] Matched 35 units at price 1162 (Buy:5038 Sell:5033)
+2025-10-21 20:45:07 [Order] Placing BUY order ID 5039 for 83 @ 993
+2025-10-21 20:45:07 [Order] Placing BUY order ID 5040 for 76 @ 783
+2025-10-21 20:45:07 [Order] Placing SELL order ID 5041 for 16 @ 873
+2025-10-21 20:45:07 [Trade] Matched 11 units at price 1072 (Buy:5024 Sell:5041)
+2025-10-21 20:45:07 [Trade] Matched 5 units at price 1027 (Buy:4991 Sell:5041)
+2025-10-21 20:45:07 [Order] Placing SELL order ID 5042 for 91 @ 1060
+2025-10-21 20:45:07 [Order] Placing SELL order ID 5043 for 41 @ 1114
+2025-10-21 20:45:07 [Order] Placing BUY order ID 5044 for 36 @ 787
+2025-10-21 20:45:07 [Order] Placing BUY order ID 5045 for 17 @ 1078
+2025-10-21 20:45:07 [Trade] Matched 17 units at price 1060 (Buy:5045 Sell:5042)
+2025-10-21 20:45:07 [Order] Placing SELL order ID 5046 for 47 @ 932
+2025-10-21 20:45:07 [Trade] Matched 33 units at price 1027 (Buy:4991 Sell:5046)
+2025-10-21 20:45:07 [Trade] Matched 14 units at price 1024 (Buy:5016 Sell:5046)
+2025-10-21 20:45:07 [Order] Placing SELL order ID 5047 for 65 @ 1089
+2025-10-21 20:45:07 [Order] Placing BUY order ID 5048 for 73 @ 1237
+2025-10-21 20:45:07 [Trade] Matched 73 units at price 1060 (Buy:5048 Sell:5042)
+2025-10-21 20:45:07 [Order] Placing BUY order ID 5049 for 94 @ 906
+2025-10-21 20:45:07 [Order] Placing SELL order ID 5050 for 69 @ 955
+2025-10-21 20:45:07 [Trade] Matched 69 units at price 1024 (Buy:5016 Sell:5050)
+2025-10-21 20:45:07 [Order] Placing SELL order ID 5051 for 89 @ 852
+2025-10-21 20:45:07 [Trade] Matched 3 units at price 1024 (Buy:5016 Sell:5051)
+2025-10-21 20:45:07 [Trade] Matched 39 units at price 1018 (Buy:5026 Sell:5051)
+2025-10-21 20:45:07 [Trade] Matched 47 units at price 998 (Buy:5015 Sell:5051)
+2025-10-21 20:45:07 [Order] Placing BUY order ID 5052 for 91 @ 786
+2025-10-21 20:45:07 [Order] Placing BUY order ID 5053 for 46 @ 928
+2025-10-21 20:45:07 [Order] Placing BUY order ID 5054 for 94 @ 1295
+2025-10-21 20:45:07 [Trade] Matched 1 units at price 1060 (Buy:5054 Sell:5042)
+2025-10-21 20:45:07 [Trade] Matched 65 units at price 1089 (Buy:5054 Sell:5047)
+2025-10-21 20:45:07 [Trade] Matched 28 units at price 1114 (Buy:5054 Sell:5043)
+2025-10-21 20:45:07 [Order] Placing BUY order ID 5055 for 82 @ 865
+2025-10-21 20:45:07 [Order] Placing SELL order ID 5056 for 28 @ 872
+2025-10-21 20:45:07 [Trade] Matched 28 units at price 998 (Buy:5015 Sell:5056)
+2025-10-21 20:45:07 [Order] Placing BUY order ID 5057 for 51 @ 1124
+2025-10-21 20:45:07 [Trade] Matched 13 units at price 1114 (Buy:5057 Sell:5043)
+2025-10-21 20:45:07 [Order] Placing SELL order ID 5058 for 87 @ 860
+2025-10-21 20:45:07 [Trade] Matched 38 units at price 1124 (Buy:5057 Sell:5058)
+2025-10-21 20:45:07 [Trade] Matched 24 units at price 998 (Buy:5015 Sell:5058)
+2025-10-21 20:45:07 [Trade] Matched 25 units at price 993 (Buy:5039 Sell:5058)
+2025-10-21 20:45:07 [Order] Placing BUY order ID 5059 for 65 @ 1252
+2025-10-21 20:45:07 [Trade] Matched 1 units at price 1162 (Buy:5059 Sell:5033)
+2025-10-21 20:45:07 [Trade] Matched 41 units at price 1232 (Buy:5059 Sell:5036)
+2025-10-21 20:45:07 [Trade] Matched 23 units at price 1243 (Buy:5059 Sell:5018)
+2025-10-21 20:45:07 [Order] Placing SELL order ID 5060 for 14 @ 1278
+2025-10-21 20:45:07 [Order] Placing BUY order ID 5061 for 79 @ 1049
+2025-10-21 20:45:07 [Order] Placing BUY order ID 5062 for 65 @ 872
+2025-10-21 20:45:07 [Order] Placing SELL order ID 5063 for 44 @ 1151
+2025-10-21 20:45:08 [Order] Placing BUY order ID 5064 for 96 @ 816
+2025-10-21 20:45:08 [Order] Placing SELL order ID 5065 for 70 @ 953
+2025-10-21 20:45:08 [Trade] Matched 70 units at price 1049 (Buy:5061 Sell:5065)
+2025-10-21 20:45:08 [Order] Placing BUY order ID 5066 for 77 @ 771
+2025-10-21 20:45:08 [Order] Placing SELL order ID 5067 for 31 @ 1128
+2025-10-21 20:45:08 [Order] Placing BUY order ID 5068 for 50 @ 1248
+2025-10-21 20:45:08 [Trade] Matched 31 units at price 1128 (Buy:5068 Sell:5067)
+2025-10-21 20:45:08 [Trade] Matched 19 units at price 1151 (Buy:5068 Sell:5063)
+2025-10-21 20:45:08 [Order] Placing BUY order ID 5069 for 21 @ 944
+2025-10-21 20:45:08 [Order] Placing SELL order ID 5070 for 65 @ 973
+2025-10-21 20:45:08 [Trade] Matched 9 units at price 1049 (Buy:5061 Sell:5070)
+2025-10-21 20:45:08 [Trade] Matched 56 units at price 993 (Buy:5039 Sell:5070)
+2025-10-21 20:45:08 [Order] Placing SELL order ID 5071 for 11 @ 1096
+2025-10-21 20:45:08 [Order] Placing SELL order ID 5072 for 55 @ 984
+2025-10-21 20:45:08 [Trade] Matched 2 units at price 993 (Buy:5039 Sell:5072)
+2025-10-21 20:45:08 [Order] Placing SELL order ID 5073 for 22 @ 1001
+2025-10-21 20:45:08 [Order] Placing SELL order ID 5074 for 23 @ 972
+2025-10-21 20:45:08 [Trade] Matched 23 units at price 976 (Buy:4931 Sell:5074)
+2025-10-21 20:45:08 [Order] Placing SELL order ID 5075 for 40 @ 991
+2025-10-21 20:45:08 [Order] Placing SELL order ID 5076 for 10 @ 813
+2025-10-21 20:45:08 [Trade] Matched 10 units at price 976 (Buy:4931 Sell:5076)
+2025-10-21 20:45:08 [Order] Placing BUY order ID 5077 for 100 @ 1118
+2025-10-21 20:45:08 [Trade] Matched 53 units at price 984 (Buy:5077 Sell:5072)
+2025-10-21 20:45:08 [Trade] Matched 40 units at price 991 (Buy:5077 Sell:5075)
+2025-10-21 20:45:08 [Trade] Matched 7 units at price 1001 (Buy:5077 Sell:5073)
+2025-10-21 20:45:08 [Order] Placing BUY order ID 5078 for 44 @ 1202
+2025-10-21 20:45:08 [Trade] Matched 15 units at price 1001 (Buy:5078 Sell:5073)
+2025-10-21 20:45:08 [Trade] Matched 11 units at price 1096 (Buy:5078 Sell:5071)
+2025-10-21 20:45:08 [Trade] Matched 18 units at price 1151 (Buy:5078 Sell:5063)
+2025-10-21 20:45:08 [Order] Placing SELL order ID 5079 for 76 @ 864
+2025-10-21 20:45:08 [Trade] Matched 18 units at price 976 (Buy:4931 Sell:5079)
+2025-10-21 20:45:08 [Trade] Matched 42 units at price 946 (Buy:4967 Sell:5079)
+2025-10-21 20:45:08 [Trade] Matched 16 units at price 944 (Buy:4944 Sell:5079)
+2025-10-21 20:45:08 [Order] Placing SELL order ID 5080 for 88 @ 1100
+2025-10-21 20:45:08 [Order] Placing SELL order ID 5081 for 69 @ 789
+2025-10-21 20:45:08 [Trade] Matched 46 units at price 944 (Buy:4944 Sell:5081)
+2025-10-21 20:45:08 [Trade] Matched 21 units at price 944 (Buy:5069 Sell:5081)
+2025-10-21 20:45:08 [Trade] Matched 2 units at price 940 (Buy:5007 Sell:5081)
+2025-10-21 20:45:08 [Order] Placing BUY order ID 5082 for 70 @ 765
+2025-10-21 20:45:08 [Order] Placing SELL order ID 5083 for 72 @ 1205
+2025-10-21 20:45:08 [Order] Placing BUY order ID 5084 for 36 @ 814
+2025-10-21 20:45:08 [Order] Placing BUY order ID 5085 for 65 @ 1149
+2025-10-21 20:45:08 [Trade] Matched 65 units at price 1100 (Buy:5085 Sell:5080)
+2025-10-21 20:45:08 [Order] Placing SELL order ID 5086 for 25 @ 1075
+2025-10-21 20:45:08 [Order] Placing SELL order ID 5087 for 29 @ 1014
+2025-10-21 20:45:08 [Order] Placing BUY order ID 5088 for 89 @ 786
+2025-10-21 20:45:08 [Order] Placing BUY order ID 5089 for 54 @ 1114
+2025-10-21 20:45:08 [Trade] Matched 29 units at price 1014 (Buy:5089 Sell:5087)
+2025-10-21 20:45:08 [Trade] Matched 25 units at price 1075 (Buy:5089 Sell:5086)
+2025-10-21 20:45:08 [Order] Placing SELL order ID 5090 for 60 @ 804
+2025-10-21 20:45:08 [Trade] Matched 60 units at price 940 (Buy:5007 Sell:5090)
+2025-10-21 20:45:08 [Order] Placing SELL order ID 5091 for 39 @ 752
+2025-10-21 20:45:08 [Trade] Matched 38 units at price 940 (Buy:5007 Sell:5091)
+2025-10-21 20:45:08 [Trade] Matched 1 units at price 936 (Buy:4952 Sell:5091)
+2025-10-21 20:45:08 [Order] Placing BUY order ID 5092 for 25 @ 1272
+2025-10-21 20:45:08 [Trade] Matched 23 units at price 1100 (Buy:5092 Sell:5080)
+2025-10-21 20:45:08 [Trade] Matched 2 units at price 1151 (Buy:5092 Sell:5063)
+2025-10-21 20:45:09 [Order] Placing BUY order ID 5093 for 60 @ 1062
+2025-10-21 20:45:09 [Order] Placing BUY order ID 5094 for 70 @ 1100
+2025-10-21 20:45:09 [Order] Placing BUY order ID 5095 for 72 @ 1012
+2025-10-21 20:45:09 [Order] Placing SELL order ID 5096 for 48 @ 1068
+2025-10-21 20:45:09 [Trade] Matched 48 units at price 1100 (Buy:5094 Sell:5096)
+2025-10-21 20:45:09 [Order] Placing SELL order ID 5097 for 34 @ 925
+2025-10-21 20:45:09 [Trade] Matched 22 units at price 1100 (Buy:5094 Sell:5097)
+2025-10-21 20:45:09 [Trade] Matched 12 units at price 1062 (Buy:5093 Sell:5097)
+2025-10-21 20:45:09 [Order] Placing BUY order ID 5098 for 24 @ 975
+2025-10-21 20:45:09 [Order] Placing BUY order ID 5099 for 84 @ 789
+2025-10-21 20:45:09 [Order] Placing SELL order ID 5100 for 22 @ 903
+2025-10-21 20:45:09 [Trade] Matched 22 units at price 1062 (Buy:5093 Sell:5100)
+2025-10-21 20:45:09 [Order] Placing SELL order ID 5101 for 97 @ 1232
+2025-10-21 20:45:09 [Order] Placing BUY order ID 5102 for 38 @ 1241
+2025-10-21 20:45:09 [Trade] Matched 5 units at price 1151 (Buy:5102 Sell:5063)
+2025-10-21 20:45:09 [Trade] Matched 33 units at price 1205 (Buy:5102 Sell:5083)
+2025-10-21 20:45:09 [Order] Placing SELL order ID 5103 for 56 @ 902
+2025-10-21 20:45:09 [Trade] Matched 26 units at price 1062 (Buy:5093 Sell:5103)
+2025-10-21 20:45:09 [Trade] Matched 30 units at price 1012 (Buy:5095 Sell:5103)
+2025-10-21 20:45:09 [Order] Placing SELL order ID 5104 for 67 @ 860
+2025-10-21 20:45:09 [Trade] Matched 42 units at price 1012 (Buy:5095 Sell:5104)
+2025-10-21 20:45:09 [Trade] Matched 24 units at price 975 (Buy:5098 Sell:5104)
+2025-10-21 20:45:09 [Trade] Matched 1 units at price 936 (Buy:4952 Sell:5104)
+2025-10-21 20:45:09 [Order] Placing BUY order ID 5105 for 28 @ 945
+2025-10-21 20:45:09 [Order] Placing SELL order ID 5106 for 40 @ 908
+2025-10-21 20:45:09 [Trade] Matched 28 units at price 945 (Buy:5105 Sell:5106)
+2025-10-21 20:45:09 [Trade] Matched 12 units at price 936 (Buy:4952 Sell:5106)
+2025-10-21 20:45:09 [Order] Placing BUY order ID 5107 for 79 @ 1241
+2025-10-21 20:45:09 [Trade] Matched 39 units at price 1205 (Buy:5107 Sell:5083)
+2025-10-21 20:45:09 [Trade] Matched 40 units at price 1232 (Buy:5107 Sell:5101)
+2025-10-21 20:45:09 [Order] Placing BUY order ID 5108 for 90 @ 1086
+2025-10-21 20:45:09 [Order] Placing SELL order ID 5109 for 75 @ 865
+2025-10-21 20:45:09 [Trade] Matched 75 units at price 1086 (Buy:5108 Sell:5109)
+2025-10-21 20:45:10 [Order] Placing BUY order ID 5110 for 100 @ 859
+2025-10-21 20:45:10 [Order] Placing BUY order ID 5111 for 56 @ 1298
+2025-10-21 20:45:10 [Trade] Matched 56 units at price 1232 (Buy:5111 Sell:5101)
+2025-10-21 20:45:10 [Order] Placing SELL order ID 5112 for 61 @ 1146
+2025-10-21 20:45:10 [Order] Placing BUY order ID 5113 for 70 @ 1122
+2025-10-21 20:45:10 [Order] Placing SELL order ID 5114 for 29 @ 828
+2025-10-21 20:45:10 [Trade] Matched 29 units at price 1122 (Buy:5113 Sell:5114)
+2025-10-21 20:45:10 [Order] Placing SELL order ID 5115 for 84 @ 909
+2025-10-21 20:45:10 [Trade] Matched 41 units at price 1122 (Buy:5113 Sell:5115)
+2025-10-21 20:45:10 [Trade] Matched 15 units at price 1086 (Buy:5108 Sell:5115)
+2025-10-21 20:45:10 [Trade] Matched 28 units at price 936 (Buy:4952 Sell:5115)
+2025-10-21 20:45:10 [Order] Placing BUY order ID 5116 for 49 @ 858
+2025-10-21 20:45:10 [Order] Placing BUY order ID 5117 for 15 @ 879
+2025-10-21 20:45:10 [Order] Placing SELL order ID 5118 for 99 @ 957
+2025-10-21 20:45:10 [Order] Placing SELL order ID 5119 for 74 @ 1032
+2025-10-21 20:45:10 [Order] Placing BUY order ID 5120 for 97 @ 814
+2025-10-21 20:45:10 [Order] Placing SELL order ID 5121 for 78 @ 1288
+2025-10-21 20:45:10 [Order] Placing BUY order ID 5122 for 92 @ 1251
+2025-10-21 20:45:10 [Trade] Matched 92 units at price 957 (Buy:5122 Sell:5118)
+2025-10-21 20:45:10 [Order] Placing BUY order ID 5123 for 97 @ 1152
+2025-10-21 20:45:10 [Trade] Matched 7 units at price 957 (Buy:5123 Sell:5118)
+2025-10-21 20:45:10 [Trade] Matched 74 units at price 1032 (Buy:5123 Sell:5119)
+2025-10-21 20:45:10 [Trade] Matched 16 units at price 1146 (Buy:5123 Sell:5112)
+2025-10-21 20:45:10 [Order] Placing SELL order ID 5124 for 40 @ 807
+2025-10-21 20:45:10 [Trade] Matched 21 units at price 936 (Buy:4952 Sell:5124)
+2025-10-21 20:45:10 [Trade] Matched 19 units at price 935 (Buy:4860 Sell:5124)
+2025-10-21 20:45:10 [Order] Placing BUY order ID 5125 for 78 @ 751
+2025-10-21 20:45:10 [Order] Placing SELL order ID 5126 for 47 @ 776
+2025-10-21 20:45:10 [Trade] Matched 21 units at price 935 (Buy:4860 Sell:5126)
+2025-10-21 20:45:10 [Trade] Matched 26 units at price 935 (Buy:4918 Sell:5126)
+2025-10-21 20:45:10 [Order] Placing BUY order ID 5127 for 25 @ 897
+2025-10-21 20:45:10 [Order] Placing BUY order ID 5128 for 92 @ 794
+2025-10-21 20:45:10 [Order] Placing BUY order ID 5129 for 79 @ 1137
+2025-10-21 20:45:10 [Order] Placing BUY order ID 5130 for 15 @ 973
+2025-10-21 20:45:10 [Order] Placing BUY order ID 5131 for 14 @ 777
+2025-10-21 20:45:10 [Order] Placing BUY order ID 5132 for 35 @ 787
+2025-10-21 20:45:10 [Order] Placing SELL order ID 5133 for 56 @ 941
+2025-10-21 20:45:10 [Trade] Matched 56 units at price 1137 (Buy:5129 Sell:5133)
+2025-10-21 20:45:10 [Order] Placing BUY order ID 5134 for 11 @ 1035
+2025-10-21 20:45:10 [Order] Placing BUY order ID 5135 for 30 @ 1024
+2025-10-21 20:45:10 [Order] Placing SELL order ID 5136 for 10 @ 922
+2025-10-21 20:45:10 [Trade] Matched 10 units at price 1137 (Buy:5129 Sell:5136)
+2025-10-21 20:45:10 [Order] Placing SELL order ID 5137 for 67 @ 810
+2025-10-21 20:45:10 [Trade] Matched 13 units at price 1137 (Buy:5129 Sell:5137)
+2025-10-21 20:45:10 [Trade] Matched 11 units at price 1035 (Buy:5134 Sell:5137)
+2025-10-21 20:45:10 [Trade] Matched 30 units at price 1024 (Buy:5135 Sell:5137)
+2025-10-21 20:45:10 [Trade] Matched 13 units at price 973 (Buy:5130 Sell:5137)
+2025-10-21 20:45:10 [Order] Placing SELL order ID 5138 for 13 @ 1104
+2025-10-21 20:45:10 [Order] Placing BUY order ID 5139 for 71 @ 935
+2025-10-21 20:45:10 [Order] Placing BUY order ID 5140 for 36 @ 949
+2025-10-21 20:45:10 [Order] Placing SELL order ID 5141 for 32 @ 1122
+2025-10-21 20:45:10 [Order] Placing BUY order ID 5142 for 35 @ 975
+2025-10-21 20:45:10 [Order] Placing SELL order ID 5143 for 23 @ 1248
+2025-10-21 20:45:11 [Order] Placing BUY order ID 5144 for 13 @ 1282
+2025-10-21 20:45:11 [Trade] Matched 13 units at price 1104 (Buy:5144 Sell:5138)
+2025-10-21 20:45:11 [Order] Placing BUY order ID 5145 for 88 @ 1217
+2025-10-21 20:45:11 [Trade] Matched 32 units at price 1122 (Buy:5145 Sell:5141)
+2025-10-21 20:45:11 [Trade] Matched 45 units at price 1146 (Buy:5145 Sell:5112)
+2025-10-21 20:45:11 [Order] Placing BUY order ID 5146 for 24 @ 1263
+2025-10-21 20:45:11 [Trade] Matched 1 units at price 1232 (Buy:5146 Sell:5101)
+2025-10-21 20:45:11 [Trade] Matched 23 units at price 1243 (Buy:5146 Sell:5018)
+2025-10-21 20:45:11 [Order] Placing SELL order ID 5147 for 48 @ 781
+2025-10-21 20:45:11 [Trade] Matched 11 units at price 1217 (Buy:5145 Sell:5147)
+2025-10-21 20:45:11 [Trade] Matched 35 units at price 975 (Buy:5142 Sell:5147)
+2025-10-21 20:45:11 [Trade] Matched 2 units at price 973 (Buy:5130 Sell:5147)
+2025-10-21 20:45:11 [Order] Placing SELL order ID 5148 for 47 @ 1067
+2025-10-21 20:45:11 [Order] Placing BUY order ID 5149 for 60 @ 1170
+2025-10-21 20:45:11 [Trade] Matched 47 units at price 1067 (Buy:5149 Sell:5148)
+2025-10-21 20:45:11 [Order] Placing BUY order ID 5150 for 44 @ 1104
+2025-10-21 20:45:11 [Order] Placing BUY order ID 5151 for 90 @ 1140
+2025-10-21 20:45:11 [Order] Placing BUY order ID 5152 for 53 @ 1138
+2025-10-21 20:45:11 [Order] Placing BUY order ID 5153 for 26 @ 1150
+2025-10-21 20:45:11 [Order] Placing BUY order ID 5154 for 69 @ 1171
+2025-10-21 20:45:11 [Order] Placing SELL order ID 5155 for 90 @ 976
+2025-10-21 20:45:11 [Trade] Matched 69 units at price 1171 (Buy:5154 Sell:5155)
+2025-10-21 20:45:11 [Trade] Matched 13 units at price 1170 (Buy:5149 Sell:5155)
+2025-10-21 20:45:11 [Trade] Matched 8 units at price 1150 (Buy:5153 Sell:5155)
+2025-10-21 20:45:11 [Order] Placing BUY order ID 5156 for 17 @ 1205
+2025-10-21 20:45:11 [Order] Placing SELL order ID 5157 for 91 @ 878
+2025-10-21 20:45:11 [Trade] Matched 17 units at price 1205 (Buy:5156 Sell:5157)
+2025-10-21 20:45:11 [Trade] Matched 18 units at price 1150 (Buy:5153 Sell:5157)
+2025-10-21 20:45:11 [Trade] Matched 56 units at price 1140 (Buy:5151 Sell:5157)
+2025-10-21 20:45:11 [Order] Placing SELL order ID 5158 for 75 @ 879
+2025-10-21 20:45:11 [Trade] Matched 34 units at price 1140 (Buy:5151 Sell:5158)
+2025-10-21 20:45:11 [Trade] Matched 41 units at price 1138 (Buy:5152 Sell:5158)
+2025-10-21 20:45:11 [Order] Placing SELL order ID 5159 for 73 @ 1101
+2025-10-21 20:45:11 [Trade] Matched 12 units at price 1138 (Buy:5152 Sell:5159)
+2025-10-21 20:45:11 [Trade] Matched 44 units at price 1104 (Buy:5150 Sell:5159)
+2025-10-21 20:45:11 [Order] Placing SELL order ID 5160 for 72 @ 1076
+2025-10-21 20:45:11 [Order] Placing SELL order ID 5161 for 85 @ 772
+2025-10-21 20:45:11 [Trade] Matched 36 units at price 949 (Buy:5140 Sell:5161)
+2025-10-21 20:45:11 [Trade] Matched 29 units at price 935 (Buy:4918 Sell:5161)
+2025-10-21 20:45:11 [Trade] Matched 20 units at price 935 (Buy:5139 Sell:5161)
+2025-10-21 20:45:11 [Order] Placing BUY order ID 5162 for 36 @ 1190
+2025-10-21 20:45:11 [Trade] Matched 36 units at price 1076 (Buy:5162 Sell:5160)
+2025-10-21 20:45:11 [Order] Placing SELL order ID 5163 for 87 @ 925
+2025-10-21 20:45:11 [Trade] Matched 51 units at price 935 (Buy:5139 Sell:5163)
+2025-10-21 20:45:11 [Trade] Matched 26 units at price 934 (Buy:4959 Sell:5163)
+2025-10-21 20:45:11 [Trade] Matched 10 units at price 930 (Buy:4843 Sell:5163)
+2025-10-21 20:45:11 [Order] Placing SELL order ID 5164 for 10 @ 970
+2025-10-21 20:45:11 [Order] Placing BUY order ID 5165 for 23 @ 1228
+2025-10-21 20:45:11 [Trade] Matched 10 units at price 970 (Buy:5165 Sell:5164)
+2025-10-21 20:45:11 [Trade] Matched 13 units at price 1076 (Buy:5165 Sell:5160)
+2025-10-21 20:45:11 [Order] Placing SELL order ID 5166 for 12 @ 831
+2025-10-21 20:45:11 [Trade] Matched 12 units at price 930 (Buy:4843 Sell:5166)
+2025-10-21 20:45:11 [Order] Placing BUY order ID 5167 for 46 @ 1030
+2025-10-21 20:45:11 [Order] Placing SELL order ID 5168 for 68 @ 794
+2025-10-21 20:45:11 [Trade] Matched 46 units at price 1030 (Buy:5167 Sell:5168)
+2025-10-21 20:45:11 [Trade] Matched 19 units at price 930 (Buy:4843 Sell:5168)
+2025-10-21 20:45:11 [Trade] Matched 3 units at price 929 (Buy:5010 Sell:5168)
+2025-10-21 20:45:12 [Order] Placing BUY order ID 5169 for 93 @ 827
+2025-10-21 20:45:12 [Order] Placing BUY order ID 5170 for 29 @ 950
+2025-10-21 20:45:12 [Order] Placing SELL order ID 5171 for 14 @ 1030
+2025-10-21 20:45:12 [Order] Placing SELL order ID 5172 for 79 @ 1241
+2025-10-21 20:45:12 [Order] Placing SELL order ID 5173 for 76 @ 760
+2025-10-21 20:45:12 [Trade] Matched 29 units at price 950 (Buy:5170 Sell:5173)
+2025-10-21 20:45:12 [Trade] Matched 47 units at price 929 (Buy:5010 Sell:5173)
+2025-10-21 20:45:12 [Order] Placing BUY order ID 5174 for 45 @ 1109
+2025-10-21 20:45:12 [Trade] Matched 14 units at price 1030 (Buy:5174 Sell:5171)
+2025-10-21 20:45:12 [Trade] Matched 23 units at price 1076 (Buy:5174 Sell:5160)
+2025-10-21 20:45:12 [Trade] Matched 8 units at price 1101 (Buy:5174 Sell:5159)
+2025-10-21 20:45:12 [Order] Placing BUY order ID 5175 for 42 @ 764
+2025-10-21 20:45:12 [Order] Placing BUY order ID 5176 for 26 @ 1075
+2025-10-21 20:45:12 [Order] Placing SELL order ID 5177 for 74 @ 1133
+2025-10-21 20:45:12 [Order] Placing SELL order ID 5178 for 55 @ 821
+2025-10-21 20:45:12 [Trade] Matched 26 units at price 1075 (Buy:5176 Sell:5178)
+2025-10-21 20:45:12 [Trade] Matched 29 units at price 929 (Buy:5010 Sell:5178)
+2025-10-21 20:45:12 [Order] Placing SELL order ID 5179 for 97 @ 1032
+2025-10-21 20:45:12 [Order] Placing SELL order ID 5180 for 23 @ 885
+2025-10-21 20:45:12 [Trade] Matched 19 units at price 929 (Buy:5010 Sell:5180)
+2025-10-21 20:45:12 [Trade] Matched 4 units at price 928 (Buy:4848 Sell:5180)
+2025-10-21 20:45:12 [Order] Placing SELL order ID 5181 for 12 @ 1112
+2025-10-21 20:45:12 [Order] Placing SELL order ID 5182 for 84 @ 976
+2025-10-21 20:45:12 [Order] Placing BUY order ID 5183 for 76 @ 804
+2025-10-21 20:45:12 [Order] Placing SELL order ID 5184 for 75 @ 1082
+2025-10-21 20:45:12 [Order] Placing BUY order ID 5185 for 93 @ 1142
+2025-10-21 20:45:12 [Trade] Matched 84 units at price 976 (Buy:5185 Sell:5182)
+2025-10-21 20:45:12 [Trade] Matched 9 units at price 1032 (Buy:5185 Sell:5179)
+2025-10-21 20:45:12 [Order] Placing BUY order ID 5186 for 99 @ 1216
+2025-10-21 20:45:12 [Trade] Matched 88 units at price 1032 (Buy:5186 Sell:5179)
+2025-10-21 20:45:12 [Trade] Matched 11 units at price 1082 (Buy:5186 Sell:5184)
+2025-10-21 20:45:12 [Order] Placing BUY order ID 5187 for 94 @ 861
+2025-10-21 20:45:12 [Order] Placing SELL order ID 5188 for 23 @ 1104
+2025-10-21 20:45:12 [Order] Placing SELL order ID 5189 for 80 @ 1148
+2025-10-21 20:45:12 [Order] Placing BUY order ID 5190 for 25 @ 1137
+2025-10-21 20:45:12 [Trade] Matched 25 units at price 1082 (Buy:5190 Sell:5184)
+2025-10-21 20:45:12 [Order] Placing BUY order ID 5191 for 58 @ 1167
+2025-10-21 20:45:12 [Trade] Matched 39 units at price 1082 (Buy:5191 Sell:5184)
+2025-10-21 20:45:12 [Trade] Matched 9 units at price 1101 (Buy:5191 Sell:5159)
+2025-10-21 20:45:12 [Trade] Matched 10 units at price 1104 (Buy:5191 Sell:5188)
+2025-10-21 20:45:12 [Order] Placing SELL order ID 5192 for 79 @ 777
+2025-10-21 20:45:12 [Trade] Matched 12 units at price 928 (Buy:4848 Sell:5192)
+2025-10-21 20:45:12 [Trade] Matched 36 units at price 928 (Buy:4861 Sell:5192)
+2025-10-21 20:45:12 [Trade] Matched 31 units at price 928 (Buy:5053 Sell:5192)
+2025-10-21 20:45:12 [Order] Placing BUY order ID 5193 for 42 @ 1021
+2025-10-21 20:45:13 [Order] Placing SELL order ID 5194 for 98 @ 877
+2025-10-21 20:45:13 [Trade] Matched 42 units at price 1021 (Buy:5193 Sell:5194)
+2025-10-21 20:45:13 [Trade] Matched 15 units at price 928 (Buy:5053 Sell:5194)
+2025-10-21 20:45:13 [Trade] Matched 13 units at price 927 (Buy:4897 Sell:5194)
+2025-10-21 20:45:13 [Trade] Matched 28 units at price 919 (Buy:4901 Sell:5194)
+2025-10-21 20:45:13 [Order] Placing SELL order ID 5195 for 34 @ 975
+2025-10-21 20:45:13 [Order] Placing BUY order ID 5196 for 63 @ 751
+2025-10-21 20:45:13 [Order] Placing BUY order ID 5197 for 60 @ 802
+2025-10-21 20:45:13 [Order] Placing SELL order ID 5198 for 70 @ 1019
+2025-10-21 20:45:13 [Order] Placing SELL order ID 5199 for 66 @ 1162
+2025-10-21 20:45:13 [Order] Placing BUY order ID 5200 for 83 @ 799
+2025-10-21 20:45:13 [Order] Placing BUY order ID 5201 for 79 @ 1130
+2025-10-21 20:45:13 [Trade] Matched 34 units at price 975 (Buy:5201 Sell:5195)
+2025-10-21 20:45:13 [Trade] Matched 45 units at price 1019 (Buy:5201 Sell:5198)
+2025-10-21 20:45:13 [Order] Placing SELL order ID 5202 for 97 @ 1256
+2025-10-21 20:45:13 [Order] Placing SELL order ID 5203 for 61 @ 1033
+2025-10-21 20:45:13 [Order] Placing SELL order ID 5204 for 40 @ 1183
+2025-10-21 20:45:13 [Order] Placing BUY order ID 5205 for 57 @ 1129
+2025-10-21 20:45:13 [Trade] Matched 25 units at price 1019 (Buy:5205 Sell:5198)
+2025-10-21 20:45:13 [Trade] Matched 32 units at price 1033 (Buy:5205 Sell:5203)
+2025-10-21 20:45:13 [Order] Placing BUY order ID 5206 for 75 @ 930
+2025-10-21 20:45:13 [Order] Placing BUY order ID 5207 for 83 @ 1082
+2025-10-21 20:45:13 [Trade] Matched 29 units at price 1033 (Buy:5207 Sell:5203)
+2025-10-21 20:45:13 [Order] Placing SELL order ID 5208 for 73 @ 1084
+2025-10-21 20:45:13 [Order] Placing SELL order ID 5209 for 74 @ 828
+2025-10-21 20:45:13 [Trade] Matched 54 units at price 1082 (Buy:5207 Sell:5209)
+2025-10-21 20:45:13 [Trade] Matched 20 units at price 930 (Buy:5206 Sell:5209)
+2025-10-21 20:45:13 [Order] Placing SELL order ID 5210 for 41 @ 1005
+2025-10-21 20:45:14 [Order] Placing SELL order ID 5211 for 23 @ 1295
+2025-10-21 20:45:14 [Order] Placing SELL order ID 5212 for 38 @ 890
+2025-10-21 20:45:14 [Trade] Matched 38 units at price 930 (Buy:5206 Sell:5212)
+2025-10-21 20:45:14 [Order] Placing SELL order ID 5213 for 79 @ 1238
+2025-10-21 20:45:14 [Order] Placing SELL order ID 5214 for 61 @ 1019
+2025-10-21 20:45:14 [Order] Placing SELL order ID 5215 for 31 @ 1296
+2025-10-21 20:45:14 [Order] Placing SELL order ID 5216 for 25 @ 1223
+2025-10-21 20:45:14 [Order] Placing BUY order ID 5217 for 46 @ 799
+2025-10-21 20:45:14 [Order] Placing SELL order ID 5218 for 19 @ 897
+2025-10-21 20:45:14 [Trade] Matched 17 units at price 930 (Buy:5206 Sell:5218)
+2025-10-21 20:45:14 [Trade] Matched 2 units at price 919 (Buy:4901 Sell:5218)
+2025-10-21 20:45:14 [Order] Placing SELL order ID 5219 for 27 @ 1127
+2025-10-21 20:45:14 [Order] Placing SELL order ID 5220 for 51 @ 1152
+2025-10-21 20:45:14 [Order] Placing SELL order ID 5221 for 57 @ 1056
+2025-10-21 20:45:14 [Order] Placing BUY order ID 5222 for 31 @ 1192
+2025-10-21 20:45:14 [Trade] Matched 31 units at price 1005 (Buy:5222 Sell:5210)
+2025-10-21 20:45:14 [Order] Placing BUY order ID 5223 for 11 @ 755
+2025-10-21 20:45:14 [Order] Placing SELL order ID 5224 for 16 @ 1083
+2025-10-21 20:45:14 [Order] Placing BUY order ID 5225 for 59 @ 1131
+2025-10-21 20:45:14 [Trade] Matched 10 units at price 1005 (Buy:5225 Sell:5210)
+2025-10-21 20:45:14 [Trade] Matched 49 units at price 1019 (Buy:5225 Sell:5214)
+2025-10-21 20:45:14 [Order] Placing SELL order ID 5226 for 46 @ 998
+2025-10-21 20:45:14 [Order] Placing BUY order ID 5227 for 75 @ 1230
+2025-10-21 20:45:14 [Trade] Matched 46 units at price 998 (Buy:5227 Sell:5226)
+2025-10-21 20:45:14 [Trade] Matched 12 units at price 1019 (Buy:5227 Sell:5214)
+2025-10-21 20:45:14 [Trade] Matched 17 units at price 1056 (Buy:5227 Sell:5221)
+2025-10-21 20:45:14 [Order] Placing BUY order ID 5228 for 51 @ 1180
+2025-10-21 20:45:14 [Trade] Matched 40 units at price 1056 (Buy:5228 Sell:5221)
+2025-10-21 20:45:14 [Trade] Matched 11 units at price 1083 (Buy:5228 Sell:5224)
+2025-10-21 20:45:14 [Order] Placing BUY order ID 5229 for 49 @ 917
+2025-10-21 20:45:14 [Order] Placing BUY order ID 5230 for 65 @ 963
+2025-10-21 20:45:14 [Order] Placing SELL order ID 5231 for 55 @ 1162
+2025-10-21 20:45:14 [Order] Placing BUY order ID 5232 for 42 @ 1248
+2025-10-21 20:45:14 [Trade] Matched 5 units at price 1083 (Buy:5232 Sell:5224)
+2025-10-21 20:45:14 [Trade] Matched 37 units at price 1084 (Buy:5232 Sell:5208)
+2025-10-21 20:45:14 [Order] Placing BUY order ID 5233 for 33 @ 1237
+2025-10-21 20:45:14 [Trade] Matched 33 units at price 1084 (Buy:5233 Sell:5208)
+2025-10-21 20:45:14 [Order] Placing SELL order ID 5234 for 80 @ 1077
+2025-10-21 20:45:14 [Order] Placing BUY order ID 5235 for 68 @ 1268
+2025-10-21 20:45:14 [Trade] Matched 68 units at price 1077 (Buy:5235 Sell:5234)
+2025-10-21 20:45:14 [Order] Placing SELL order ID 5236 for 11 @ 874
+2025-10-21 20:45:14 [Trade] Matched 11 units at price 963 (Buy:5230 Sell:5236)
+2025-10-21 20:45:14 [Order] Placing SELL order ID 5237 for 51 @ 905
+2025-10-21 20:45:14 [Trade] Matched 51 units at price 963 (Buy:5230 Sell:5237)
+2025-10-21 20:45:14 [Order] Placing SELL order ID 5238 for 18 @ 1056
+2025-10-21 20:45:14 [Order] Placing SELL order ID 5239 for 77 @ 1099
+2025-10-21 20:45:15 [Order] Placing BUY order ID 5240 for 81 @ 1013
+2025-10-21 20:45:15 [Order] Placing SELL order ID 5241 for 75 @ 943
+2025-10-21 20:45:15 [Trade] Matched 75 units at price 1013 (Buy:5240 Sell:5241)
+2025-10-21 20:45:15 [Order] Placing BUY order ID 5242 for 37 @ 815
+2025-10-21 20:45:15 [Order] Placing SELL order ID 5243 for 10 @ 1115
+2025-10-21 20:45:15 [Order] Placing BUY order ID 5244 for 56 @ 886
+2025-10-21 20:45:15 [Order] Placing SELL order ID 5245 for 28 @ 1283
+2025-10-21 20:45:15 [Order] Placing BUY order ID 5246 for 64 @ 1235
+2025-10-21 20:45:15 [Trade] Matched 18 units at price 1056 (Buy:5246 Sell:5238)
+2025-10-21 20:45:15 [Trade] Matched 12 units at price 1077 (Buy:5246 Sell:5234)
+2025-10-21 20:45:15 [Trade] Matched 3 units at price 1084 (Buy:5246 Sell:5208)
+2025-10-21 20:45:15 [Trade] Matched 31 units at price 1099 (Buy:5246 Sell:5239)
+2025-10-21 20:45:15 [Order] Placing BUY order ID 5247 for 92 @ 1191
+2025-10-21 20:45:15 [Trade] Matched 46 units at price 1099 (Buy:5247 Sell:5239)
+2025-10-21 20:45:15 [Trade] Matched 13 units at price 1104 (Buy:5247 Sell:5188)
+2025-10-21 20:45:15 [Trade] Matched 12 units at price 1112 (Buy:5247 Sell:5181)
+2025-10-21 20:45:15 [Trade] Matched 10 units at price 1115 (Buy:5247 Sell:5243)
+2025-10-21 20:45:15 [Trade] Matched 11 units at price 1127 (Buy:5247 Sell:5219)
+2025-10-21 20:45:15 [Order] Placing BUY order ID 5248 for 43 @ 1250
+2025-10-21 20:45:15 [Trade] Matched 16 units at price 1127 (Buy:5248 Sell:5219)
+2025-10-21 20:45:15 [Trade] Matched 27 units at price 1133 (Buy:5248 Sell:5177)
+2025-10-21 20:45:15 [Order] Placing SELL order ID 5249 for 35 @ 950
+2025-10-21 20:45:15 [Trade] Matched 6 units at price 1013 (Buy:5240 Sell:5249)
+2025-10-21 20:45:15 [Trade] Matched 3 units at price 963 (Buy:5230 Sell:5249)
+2025-10-21 20:45:15 [Order] Placing BUY order ID 5250 for 56 @ 854
+2025-10-21 20:45:15 [Order] Placing BUY order ID 5251 for 88 @ 966
+2025-10-21 20:45:15 [Trade] Matched 26 units at price 950 (Buy:5251 Sell:5249)
+2025-10-21 20:45:15 [Order] Placing SELL order ID 5252 for 40 @ 931
+2025-10-21 20:45:15 [Trade] Matched 40 units at price 966 (Buy:5251 Sell:5252)
+2025-10-21 20:45:15 [Order] Placing SELL order ID 5253 for 42 @ 1182
+2025-10-21 20:45:15 [Order] Placing SELL order ID 5254 for 70 @ 760
+2025-10-21 20:45:15 [Trade] Matched 22 units at price 966 (Buy:5251 Sell:5254)
+2025-10-21 20:45:15 [Trade] Matched 48 units at price 919 (Buy:4901 Sell:5254)
+2025-10-21 20:45:15 [Order] Placing SELL order ID 5255 for 89 @ 977
+2025-10-21 20:45:15 [Order] Placing SELL order ID 5256 for 84 @ 993
+2025-10-21 20:45:15 [Order] Placing SELL order ID 5257 for 95 @ 1255
+2025-10-21 20:45:15 [Order] Placing BUY order ID 5258 for 32 @ 827
+2025-10-21 20:45:15 [Order] Placing SELL order ID 5259 for 82 @ 1124
+2025-10-21 20:45:15 [Order] Placing BUY order ID 5260 for 66 @ 847
+2025-10-21 20:45:15 [Order] Placing BUY order ID 5261 for 17 @ 862
+2025-10-21 20:45:15 [Order] Placing SELL order ID 5262 for 73 @ 1046
+2025-10-21 20:45:15 [Order] Placing SELL order ID 5263 for 33 @ 930
+2025-10-21 20:45:15 [Order] Placing BUY order ID 5264 for 87 @ 1239
+2025-10-21 20:45:15 [Trade] Matched 33 units at price 930 (Buy:5264 Sell:5263)
+2025-10-21 20:45:15 [Trade] Matched 54 units at price 977 (Buy:5264 Sell:5255)
+2025-10-21 20:45:15 [Order] Placing SELL order ID 5265 for 74 @ 762
+2025-10-21 20:45:15 [Trade] Matched 12 units at price 919 (Buy:4901 Sell:5265)
+2025-10-21 20:45:15 [Trade] Matched 62 units at price 918 (Buy:5005 Sell:5265)
+2025-10-21 20:45:15 [Order] Placing BUY order ID 5266 for 36 @ 1214
+2025-10-21 20:45:15 [Trade] Matched 35 units at price 977 (Buy:5266 Sell:5255)
+2025-10-21 20:45:15 [Trade] Matched 1 units at price 993 (Buy:5266 Sell:5256)
+2025-10-21 20:45:15 [Order] Placing BUY order ID 5267 for 41 @ 899
+2025-10-21 20:45:16 [Order] Placing BUY order ID 5268 for 23 @ 1032
+2025-10-21 20:45:16 [Trade] Matched 23 units at price 993 (Buy:5268 Sell:5256)
+2025-10-21 20:45:16 [Order] Placing SELL order ID 5269 for 43 @ 951
+2025-10-21 20:45:16 [Order] Placing SELL order ID 5270 for 48 @ 887
+2025-10-21 20:45:16 [Trade] Matched 1 units at price 918 (Buy:5005 Sell:5270)
+2025-10-21 20:45:16 [Trade] Matched 26 units at price 917 (Buy:4667 Sell:5270)
+2025-10-21 20:45:16 [Trade] Matched 21 units at price 917 (Buy:5229 Sell:5270)
+2025-10-21 20:45:16 [Order] Placing SELL order ID 5271 for 37 @ 1127
+2025-10-21 20:45:16 [Order] Placing BUY order ID 5272 for 93 @ 1006
+2025-10-21 20:45:16 [Trade] Matched 43 units at price 951 (Buy:5272 Sell:5269)
+2025-10-21 20:45:16 [Trade] Matched 50 units at price 993 (Buy:5272 Sell:5256)
+2025-10-21 20:45:16 [Order] Placing BUY order ID 5273 for 86 @ 1209
+2025-10-21 20:45:16 [Trade] Matched 10 units at price 993 (Buy:5273 Sell:5256)
+2025-10-21 20:45:16 [Trade] Matched 73 units at price 1046 (Buy:5273 Sell:5262)
+2025-10-21 20:45:16 [Trade] Matched 3 units at price 1124 (Buy:5273 Sell:5259)
+2025-10-21 20:45:16 [Order] Placing BUY order ID 5274 for 12 @ 1160
+2025-10-21 20:45:16 [Trade] Matched 12 units at price 1124 (Buy:5274 Sell:5259)
+2025-10-21 20:45:16 [Order] Placing SELL order ID 5275 for 71 @ 884
+2025-10-21 20:45:16 [Trade] Matched 28 units at price 917 (Buy:5229 Sell:5275)
+2025-10-21 20:45:16 [Trade] Matched 43 units at price 916 (Buy:4880 Sell:5275)
+2025-10-21 20:45:16 [Order] Placing BUY order ID 5276 for 63 @ 1295
+2025-10-21 20:45:16 [Trade] Matched 63 units at price 1124 (Buy:5276 Sell:5259)
+2025-10-21 20:45:16 [Order] Placing BUY order ID 5277 for 16 @ 969
+2025-10-21 20:45:16 [Order] Placing BUY order ID 5278 for 84 @ 1215
+2025-10-21 20:45:16 [Trade] Matched 4 units at price 1124 (Buy:5278 Sell:5259)
+2025-10-21 20:45:16 [Trade] Matched 37 units at price 1127 (Buy:5278 Sell:5271)
+2025-10-21 20:45:16 [Trade] Matched 43 units at price 1133 (Buy:5278 Sell:5177)
+2025-10-21 20:45:16 [Order] Placing SELL order ID 5279 for 30 @ 1093
+2025-10-21 20:45:16 [Order] Placing BUY order ID 5280 for 50 @ 804
+2025-10-21 20:45:16 [Order] Placing BUY order ID 5281 for 47 @ 901
+2025-10-21 20:45:16 [Order] Placing SELL order ID 5282 for 14 @ 848
+2025-10-21 20:45:16 [Trade] Matched 14 units at price 969 (Buy:5277 Sell:5282)
+2025-10-21 20:45:16 [Order] Placing SELL order ID 5283 for 63 @ 1168
+2025-10-21 20:45:16 [Order] Placing SELL order ID 5284 for 34 @ 902
+2025-10-21 20:45:16 [Trade] Matched 2 units at price 969 (Buy:5277 Sell:5284)
+2025-10-21 20:45:16 [Trade] Matched 32 units at price 916 (Buy:4880 Sell:5284)
+2025-10-21 20:45:16 [Order] Placing BUY order ID 5285 for 83 @ 1017
+2025-10-21 20:45:17 [Order] Placing BUY order ID 5286 for 61 @ 1060
+2025-10-21 20:45:17 [Order] Placing SELL order ID 5287 for 17 @ 1120
+2025-10-21 20:45:17 [Order] Placing BUY order ID 5288 for 65 @ 1278
+2025-10-21 20:45:17 [Trade] Matched 30 units at price 1093 (Buy:5288 Sell:5279)
+2025-10-21 20:45:17 [Trade] Matched 17 units at price 1120 (Buy:5288 Sell:5287)
+2025-10-21 20:45:17 [Trade] Matched 4 units at price 1133 (Buy:5288 Sell:5177)
+2025-10-21 20:45:17 [Trade] Matched 14 units at price 1148 (Buy:5288 Sell:5189)
+2025-10-21 20:45:17 [Order] Placing BUY order ID 5289 for 25 @ 928
+2025-10-21 20:45:17 [Order] Placing SELL order ID 5290 for 45 @ 1288
+2025-10-21 20:45:17 [Order] Placing BUY order ID 5291 for 34 @ 1102
+2025-10-21 20:45:17 [Order] Placing SELL order ID 5292 for 11 @ 873
+2025-10-21 20:45:17 [Trade] Matched 11 units at price 1102 (Buy:5291 Sell:5292)
+2025-10-21 20:45:17 [Order] Placing SELL order ID 5293 for 82 @ 1110
+2025-10-21 20:45:17 [Order] Placing SELL order ID 5294 for 21 @ 911
+2025-10-21 20:45:17 [Trade] Matched 21 units at price 1102 (Buy:5291 Sell:5294)
+2025-10-21 20:45:17 [Order] Placing BUY order ID 5295 for 98 @ 968
+2025-10-21 20:45:17 [Order] Placing SELL order ID 5296 for 61 @ 894
+2025-10-21 20:45:17 [Trade] Matched 2 units at price 1102 (Buy:5291 Sell:5296)
+2025-10-21 20:45:17 [Trade] Matched 59 units at price 1060 (Buy:5286 Sell:5296)
+2025-10-21 20:45:17 [Order] Placing BUY order ID 5297 for 64 @ 905
+2025-10-21 20:45:17 [Order] Placing BUY order ID 5298 for 49 @ 1002
+2025-10-21 20:45:17 [Order] Placing BUY order ID 5299 for 76 @ 1236
+2025-10-21 20:45:17 [Trade] Matched 76 units at price 1110 (Buy:5299 Sell:5293)
+2025-10-21 20:45:17 [Order] Placing SELL order ID 5300 for 54 @ 1082
+2025-10-21 20:45:17 [Order] Placing SELL order ID 5301 for 41 @ 1075
+2025-10-21 20:45:17 [Order] Placing BUY order ID 5302 for 86 @ 1031
+2025-10-21 20:45:17 [Order] Placing BUY order ID 5303 for 27 @ 789
+2025-10-21 20:45:17 [Order] Placing SELL order ID 5304 for 71 @ 1129
+2025-10-21 20:45:17 [Order] Placing BUY order ID 5305 for 52 @ 1224
+2025-10-21 20:45:17 [Trade] Matched 41 units at price 1075 (Buy:5305 Sell:5301)
+2025-10-21 20:45:17 [Trade] Matched 11 units at price 1082 (Buy:5305 Sell:5300)
+2025-10-21 20:45:17 [Order] Placing BUY order ID 5306 for 52 @ 1031
+2025-10-21 20:45:17 [Order] Placing BUY order ID 5307 for 79 @ 1166
+2025-10-21 20:45:17 [Trade] Matched 43 units at price 1082 (Buy:5307 Sell:5300)
+2025-10-21 20:45:17 [Trade] Matched 6 units at price 1110 (Buy:5307 Sell:5293)
+2025-10-21 20:45:17 [Trade] Matched 30 units at price 1129 (Buy:5307 Sell:5304)
+2025-10-21 20:45:17 [Order] Placing BUY order ID 5308 for 93 @ 1249
+2025-10-21 20:45:17 [Trade] Matched 41 units at price 1129 (Buy:5308 Sell:5304)
+2025-10-21 20:45:17 [Trade] Matched 52 units at price 1148 (Buy:5308 Sell:5189)
+2025-10-21 20:45:17 [Order] Placing SELL order ID 5309 for 54 @ 903
+2025-10-21 20:45:17 [Trade] Matched 2 units at price 1060 (Buy:5286 Sell:5309)
+2025-10-21 20:45:17 [Trade] Matched 52 units at price 1031 (Buy:5302 Sell:5309)
+2025-10-21 20:45:18 [Order] Placing SELL order ID 5310 for 59 @ 951
+2025-10-21 20:45:18 [Trade] Matched 34 units at price 1031 (Buy:5302 Sell:5310)
+2025-10-21 20:45:18 [Trade] Matched 25 units at price 1031 (Buy:5306 Sell:5310)
+2025-10-21 20:45:18 [Order] Placing SELL order ID 5311 for 32 @ 854
+2025-10-21 20:45:18 [Trade] Matched 27 units at price 1031 (Buy:5306 Sell:5311)
+2025-10-21 20:45:18 [Trade] Matched 5 units at price 1017 (Buy:5285 Sell:5311)
+2025-10-21 20:45:18 [Order] Placing SELL order ID 5312 for 64 @ 1039
+2025-10-21 20:45:18 [Order] Placing SELL order ID 5313 for 97 @ 927
+2025-10-21 20:45:18 [Trade] Matched 78 units at price 1017 (Buy:5285 Sell:5313)
+2025-10-21 20:45:18 [Trade] Matched 19 units at price 1002 (Buy:5298 Sell:5313)
+2025-10-21 20:45:18 [Order] Placing SELL order ID 5314 for 86 @ 1218
+2025-10-21 20:45:18 [Order] Placing SELL order ID 5315 for 13 @ 1133
+2025-10-21 20:45:18 [Order] Placing BUY order ID 5316 for 98 @ 781
+2025-10-21 20:45:18 [Order] Placing BUY order ID 5317 for 80 @ 944
+2025-10-21 20:45:18 [Order] Placing BUY order ID 5318 for 44 @ 990
+2025-10-21 20:45:18 [Order] Placing BUY order ID 5319 for 86 @ 1109
+2025-10-21 20:45:18 [Trade] Matched 64 units at price 1039 (Buy:5319 Sell:5312)
+2025-10-21 20:45:18 [Order] Placing SELL order ID 5320 for 39 @ 1007
+2025-10-21 20:45:18 [Trade] Matched 22 units at price 1109 (Buy:5319 Sell:5320)
+2025-10-21 20:45:18 [Order] Placing SELL order ID 5321 for 36 @ 1208
+2025-10-21 20:45:18 [Order] Placing BUY order ID 5322 for 87 @ 1059
+2025-10-21 20:45:18 [Trade] Matched 17 units at price 1007 (Buy:5322 Sell:5320)
+2025-10-21 20:45:18 [Order] Placing BUY order ID 5323 for 36 @ 1065
+2025-10-21 20:45:18 [Order] Placing SELL order ID 5324 for 12 @ 1119
+2025-10-21 20:45:18 [Order] Placing SELL order ID 5325 for 26 @ 756
+2025-10-21 20:45:18 [Trade] Matched 26 units at price 1065 (Buy:5323 Sell:5325)
+2025-10-21 20:45:18 [Order] Placing BUY order ID 5326 for 27 @ 1158
+2025-10-21 20:45:18 [Trade] Matched 12 units at price 1119 (Buy:5326 Sell:5324)
+2025-10-21 20:45:18 [Trade] Matched 13 units at price 1133 (Buy:5326 Sell:5315)
+2025-10-21 20:45:18 [Trade] Matched 2 units at price 1148 (Buy:5326 Sell:5189)
+2025-10-21 20:45:18 [Order] Placing BUY order ID 5327 for 31 @ 1059
+2025-10-21 20:45:18 [Order] Placing SELL order ID 5328 for 74 @ 808
+2025-10-21 20:45:18 [Trade] Matched 10 units at price 1065 (Buy:5323 Sell:5328)
+2025-10-21 20:45:18 [Trade] Matched 64 units at price 1059 (Buy:5322 Sell:5328)
+2025-10-21 20:45:18 [Order] Placing BUY order ID 5329 for 69 @ 792
+2025-10-21 20:45:18 [Order] Placing SELL order ID 5330 for 51 @ 1200
+2025-10-21 20:45:18 [Order] Placing BUY order ID 5331 for 31 @ 1101
+2025-10-21 20:45:18 [Order] Placing SELL order ID 5332 for 87 @ 1002
+2025-10-21 20:45:18 [Trade] Matched 31 units at price 1101 (Buy:5331 Sell:5332)
+2025-10-21 20:45:18 [Trade] Matched 6 units at price 1059 (Buy:5322 Sell:5332)
+2025-10-21 20:45:18 [Trade] Matched 31 units at price 1059 (Buy:5327 Sell:5332)
+2025-10-21 20:45:18 [Trade] Matched 19 units at price 1002 (Buy:5298 Sell:5332)
+2025-10-21 20:45:18 [Order] Placing BUY order ID 5333 for 100 @ 1098
+2025-10-21 20:45:18 [Order] Placing SELL order ID 5334 for 87 @ 845
+2025-10-21 20:45:18 [Trade] Matched 87 units at price 1098 (Buy:5333 Sell:5334)
+2025-10-21 20:45:18 [Order] Placing BUY order ID 5335 for 27 @ 1156
+2025-10-21 20:45:18 [Trade] Matched 12 units at price 1148 (Buy:5335 Sell:5189)
+2025-10-21 20:45:18 [Trade] Matched 15 units at price 1152 (Buy:5335 Sell:5220)
+2025-10-21 20:45:18 [Order] Placing BUY order ID 5336 for 10 @ 1111
+2025-10-21 20:45:19 [Order] Placing SELL order ID 5337 for 17 @ 1043
+2025-10-21 20:45:19 [Trade] Matched 10 units at price 1111 (Buy:5336 Sell:5337)
+2025-10-21 20:45:19 [Trade] Matched 7 units at price 1098 (Buy:5333 Sell:5337)
+2025-10-21 20:45:19 [Order] Placing BUY order ID 5338 for 98 @ 774
+2025-10-21 20:45:19 [Order] Placing BUY order ID 5339 for 89 @ 1168
+2025-10-21 20:45:19 [Trade] Matched 36 units at price 1152 (Buy:5339 Sell:5220)
+2025-10-21 20:45:19 [Trade] Matched 53 units at price 1162 (Buy:5339 Sell:5199)
+2025-10-21 20:45:19 [Order] Placing BUY order ID 5340 for 79 @ 1273
+2025-10-21 20:45:19 [Trade] Matched 13 units at price 1162 (Buy:5340 Sell:5199)
+2025-10-21 20:45:19 [Trade] Matched 55 units at price 1162 (Buy:5340 Sell:5231)
+2025-10-21 20:45:19 [Trade] Matched 11 units at price 1168 (Buy:5340 Sell:5283)
+2025-10-21 20:45:19 [Order] Placing SELL order ID 5341 for 62 @ 902
+2025-10-21 20:45:19 [Trade] Matched 6 units at price 1098 (Buy:5333 Sell:5341)
+2025-10-21 20:45:19 [Trade] Matched 11 units at price 1002 (Buy:5298 Sell:5341)
+2025-10-21 20:45:19 [Trade] Matched 44 units at price 990 (Buy:5318 Sell:5341)
+2025-10-21 20:45:19 [Trade] Matched 1 units at price 968 (Buy:5295 Sell:5341)
+2025-10-21 20:45:19 [Order] Placing BUY order ID 5342 for 35 @ 836
+2025-10-21 20:45:19 [Order] Placing BUY order ID 5343 for 91 @ 1288
+2025-10-21 20:45:19 [Trade] Matched 52 units at price 1168 (Buy:5343 Sell:5283)
+2025-10-21 20:45:19 [Trade] Matched 39 units at price 1182 (Buy:5343 Sell:5253)
+2025-10-21 20:45:19 [Order] Placing SELL order ID 5344 for 25 @ 890
+2025-10-21 20:45:19 [Trade] Matched 25 units at price 968 (Buy:5295 Sell:5344)
+2025-10-21 20:45:19 [Order] Placing SELL order ID 5345 for 34 @ 1239
+2025-10-21 20:45:19 [Order] Placing BUY order ID 5346 for 16 @ 903
+2025-10-21 20:45:19 [Order] Placing BUY order ID 5347 for 39 @ 1275
+2025-10-21 20:45:19 [Trade] Matched 3 units at price 1182 (Buy:5347 Sell:5253)
+2025-10-21 20:45:19 [Trade] Matched 36 units at price 1183 (Buy:5347 Sell:5204)
+2025-10-21 20:45:19 [Order] Placing SELL order ID 5348 for 48 @ 1165
+2025-10-21 20:45:19 [Order] Placing BUY order ID 5349 for 31 @ 811
+2025-10-21 20:45:19 [Order] Placing SELL order ID 5350 for 60 @ 1241
+2025-10-21 20:45:19 [Order] Placing BUY order ID 5351 for 61 @ 960
+2025-10-21 20:45:19 [Order] Placing BUY order ID 5352 for 88 @ 1120
+2025-10-21 20:45:19 [Order] Placing SELL order ID 5353 for 49 @ 1144
+2025-10-21 20:45:19 [Order] Placing SELL order ID 5354 for 97 @ 793
+2025-10-21 20:45:19 [Trade] Matched 88 units at price 1120 (Buy:5352 Sell:5354)
+2025-10-21 20:45:19 [Trade] Matched 9 units at price 968 (Buy:5295 Sell:5354)
+2025-10-21 20:45:19 [Order] Placing SELL order ID 5355 for 34 @ 1118
+2025-10-21 20:45:19 [Order] Placing SELL order ID 5356 for 18 @ 1189
+2025-10-21 20:45:19 [Order] Placing SELL order ID 5357 for 22 @ 1112
+2025-10-21 20:45:19 [Order] Placing BUY order ID 5358 for 72 @ 870
+2025-10-21 20:45:19 [Order] Placing BUY order ID 5359 for 79 @ 1072
+2025-10-21 20:45:19 [Order] Placing SELL order ID 5360 for 94 @ 1239
+2025-10-21 20:45:20 [Order] Placing BUY order ID 5361 for 90 @ 842
+2025-10-21 20:45:20 [Order] Placing SELL order ID 5362 for 58 @ 1133
+2025-10-21 20:45:20 [Order] Placing SELL order ID 5363 for 61 @ 910
+2025-10-21 20:45:20 [Trade] Matched 61 units at price 1072 (Buy:5359 Sell:5363)
+2025-10-21 20:45:20 [Order] Placing BUY order ID 5364 for 38 @ 1164
+2025-10-21 20:45:20 [Trade] Matched 22 units at price 1112 (Buy:5364 Sell:5357)
+2025-10-21 20:45:20 [Trade] Matched 16 units at price 1118 (Buy:5364 Sell:5355)
+2025-10-21 20:45:20 [Order] Placing BUY order ID 5365 for 92 @ 1152
+2025-10-21 20:45:20 [Trade] Matched 18 units at price 1118 (Buy:5365 Sell:5355)
+2025-10-21 20:45:20 [Trade] Matched 58 units at price 1133 (Buy:5365 Sell:5362)
+2025-10-21 20:45:20 [Trade] Matched 16 units at price 1144 (Buy:5365 Sell:5353)
+2025-10-21 20:45:20 [Order] Placing BUY order ID 5366 for 27 @ 1220
+2025-10-21 20:45:20 [Trade] Matched 27 units at price 1144 (Buy:5366 Sell:5353)
+2025-10-21 20:45:20 [Order] Placing BUY order ID 5367 for 36 @ 927
+2025-10-21 20:45:20 [Order] Placing BUY order ID 5368 for 100 @ 863
+2025-10-21 20:45:20 [Order] Placing BUY order ID 5369 for 64 @ 1139
+2025-10-21 20:45:20 [Order] Placing SELL order ID 5370 for 96 @ 764
+2025-10-21 20:45:20 [Trade] Matched 64 units at price 1139 (Buy:5369 Sell:5370)
+2025-10-21 20:45:20 [Trade] Matched 18 units at price 1072 (Buy:5359 Sell:5370)
+2025-10-21 20:45:20 [Trade] Matched 14 units at price 968 (Buy:5295 Sell:5370)
+2025-10-21 20:45:20 [Order] Placing SELL order ID 5371 for 14 @ 1077
+2025-10-21 20:45:20 [Order] Placing SELL order ID 5372 for 87 @ 859
+2025-10-21 20:45:20 [Trade] Matched 49 units at price 968 (Buy:5295 Sell:5372)
+2025-10-21 20:45:20 [Trade] Matched 38 units at price 960 (Buy:5351 Sell:5372)
+2025-10-21 20:45:20 [Order] Placing SELL order ID 5373 for 90 @ 1054
+2025-10-21 20:45:20 [Order] Placing SELL order ID 5374 for 74 @ 852
+2025-10-21 20:45:20 [Trade] Matched 23 units at price 960 (Buy:5351 Sell:5374)
+2025-10-21 20:45:20 [Trade] Matched 51 units at price 944 (Buy:5317 Sell:5374)
+2025-10-21 20:45:20 [Order] Placing SELL order ID 5375 for 81 @ 1063
+2025-10-21 20:45:20 [Order] Placing SELL order ID 5376 for 13 @ 834
+2025-10-21 20:45:20 [Trade] Matched 13 units at price 944 (Buy:5317 Sell:5376)
+2025-10-21 20:45:20 [Order] Placing SELL order ID 5377 for 10 @ 1074
+2025-10-21 20:45:20 [Order] Placing BUY order ID 5378 for 37 @ 1042
+2025-10-21 20:45:20 [Order] Placing BUY order ID 5379 for 76 @ 880
+2025-10-21 20:45:20 [Order] Placing BUY order ID 5380 for 10 @ 1065
+2025-10-21 20:45:20 [Trade] Matched 10 units at price 1054 (Buy:5380 Sell:5373)
+2025-10-21 20:45:20 [Order] Placing SELL order ID 5381 for 62 @ 1289
+2025-10-21 20:45:20 [Order] Placing SELL order ID 5382 for 100 @ 1217
+2025-10-21 20:45:20 [Order] Placing BUY order ID 5383 for 94 @ 1098
+2025-10-21 20:45:20 [Trade] Matched 80 units at price 1054 (Buy:5383 Sell:5373)
+2025-10-21 20:45:20 [Trade] Matched 14 units at price 1063 (Buy:5383 Sell:5375)
+2025-10-21 20:45:20 [Order] Placing BUY order ID 5384 for 55 @ 790
+2025-10-21 20:45:20 [Order] Placing SELL order ID 5385 for 99 @ 1272
+2025-10-21 20:45:20 [Order] Placing SELL order ID 5386 for 51 @ 814
+2025-10-21 20:45:20 [Trade] Matched 37 units at price 1042 (Buy:5378 Sell:5386)
+2025-10-21 20:45:20 [Trade] Matched 14 units at price 944 (Buy:5317 Sell:5386)
+2025-10-21 20:45:20 [Order] Placing BUY order ID 5387 for 76 @ 786
+2025-10-21 20:45:21 [Order] Placing SELL order ID 5388 for 24 @ 755
+2025-10-21 20:45:21 [Trade] Matched 2 units at price 944 (Buy:5317 Sell:5388)
+2025-10-21 20:45:21 [Trade] Matched 22 units at price 928 (Buy:5289 Sell:5388)
+2025-10-21 20:45:21 [Order] Placing BUY order ID 5389 for 72 @ 784
+2025-10-21 20:45:21 [Order] Placing SELL order ID 5390 for 43 @ 1185
+2025-10-21 20:45:21 [Order] Placing BUY order ID 5391 for 65 @ 1259
+2025-10-21 20:45:21 [Trade] Matched 65 units at price 1063 (Buy:5391 Sell:5375)
+2025-10-21 20:45:21 [Order] Placing SELL order ID 5392 for 22 @ 1265
+2025-10-21 20:45:21 [Order] Placing SELL order ID 5393 for 73 @ 796
+2025-10-21 20:45:21 [Trade] Matched 3 units at price 928 (Buy:5289 Sell:5393)
+2025-10-21 20:45:21 [Trade] Matched 36 units at price 927 (Buy:5367 Sell:5393)
+2025-10-21 20:45:21 [Trade] Matched 20 units at price 916 (Buy:4880 Sell:5393)
+2025-10-21 20:45:21 [Trade] Matched 14 units at price 913 (Buy:4917 Sell:5393)
+2025-10-21 20:45:21 [Order] Placing BUY order ID 5394 for 67 @ 1258
+2025-10-21 20:45:21 [Trade] Matched 2 units at price 1063 (Buy:5394 Sell:5375)
+2025-10-21 20:45:21 [Trade] Matched 10 units at price 1074 (Buy:5394 Sell:5377)
+2025-10-21 20:45:21 [Trade] Matched 14 units at price 1077 (Buy:5394 Sell:5371)
+2025-10-21 20:45:21 [Trade] Matched 6 units at price 1144 (Buy:5394 Sell:5353)
+2025-10-21 20:45:21 [Trade] Matched 35 units at price 1165 (Buy:5394 Sell:5348)
+2025-10-21 20:45:21 [Order] Placing BUY order ID 5395 for 72 @ 1282
+2025-10-21 20:45:21 [Trade] Matched 13 units at price 1165 (Buy:5395 Sell:5348)
+2025-10-21 20:45:21 [Trade] Matched 4 units at price 1183 (Buy:5395 Sell:5204)
+2025-10-21 20:45:21 [Trade] Matched 43 units at price 1185 (Buy:5395 Sell:5390)
+2025-10-21 20:45:21 [Trade] Matched 12 units at price 1189 (Buy:5395 Sell:5356)
+2025-10-21 20:45:21 [Order] Placing BUY order ID 5396 for 34 @ 1162
+2025-10-21 20:45:21 [Order] Placing BUY order ID 5397 for 11 @ 1122
+2025-10-21 20:45:21 [Order] Placing SELL order ID 5398 for 78 @ 1209
+2025-10-21 20:45:21 [Order] Placing SELL order ID 5399 for 92 @ 1089
+2025-10-21 20:45:21 [Trade] Matched 34 units at price 1162 (Buy:5396 Sell:5399)
+2025-10-21 20:45:21 [Trade] Matched 11 units at price 1122 (Buy:5397 Sell:5399)
+2025-10-21 20:45:21 [Order] Placing SELL order ID 5400 for 22 @ 766
+2025-10-21 20:45:21 [Trade] Matched 8 units at price 913 (Buy:4917 Sell:5400)
+2025-10-21 20:45:21 [Trade] Matched 14 units at price 909 (Buy:4960 Sell:5400)
+2025-10-21 20:45:21 [Order] Placing SELL order ID 5401 for 11 @ 783
+2025-10-21 20:45:21 [Trade] Matched 2 units at price 909 (Buy:4960 Sell:5401)
+2025-10-21 20:45:21 [Trade] Matched 9 units at price 906 (Buy:4877 Sell:5401)
+2025-10-21 20:45:21 [Order] Placing SELL order ID 5402 for 25 @ 756
+2025-10-21 20:45:21 [Trade] Matched 25 units at price 906 (Buy:4877 Sell:5402)
+2025-10-21 20:45:21 [Order] Placing BUY order ID 5403 for 50 @ 831
+2025-10-21 20:45:21 [Order] Placing BUY order ID 5404 for 21 @ 1253
+2025-10-21 20:45:21 [Trade] Matched 21 units at price 1089 (Buy:5404 Sell:5399)
+2025-10-21 20:45:21 [Order] Placing BUY order ID 5405 for 13 @ 1205
+2025-10-21 20:45:21 [Trade] Matched 13 units at price 1089 (Buy:5405 Sell:5399)
+2025-10-21 20:45:21 [Order] Placing BUY order ID 5406 for 89 @ 1088
+2025-10-21 20:45:21 [Order] Placing BUY order ID 5407 for 45 @ 909
+2025-10-21 20:45:21 [Order] Placing BUY order ID 5408 for 19 @ 1273
+2025-10-21 20:45:21 [Trade] Matched 13 units at price 1089 (Buy:5408 Sell:5399)
+2025-10-21 20:45:21 [Trade] Matched 6 units at price 1189 (Buy:5408 Sell:5356)
+2025-10-21 20:45:21 [Order] Placing BUY order ID 5409 for 22 @ 1258
+2025-10-21 20:45:21 [Trade] Matched 22 units at price 1200 (Buy:5409 Sell:5330)
+2025-10-21 20:45:21 [Order] Placing BUY order ID 5410 for 47 @ 825
+2025-10-21 20:45:21 [Order] Placing SELL order ID 5411 for 78 @ 861
+2025-10-21 20:45:21 [Trade] Matched 78 units at price 1088 (Buy:5406 Sell:5411)
+2025-10-21 20:45:21 [Order] Placing BUY order ID 5412 for 100 @ 1181
+2025-10-21 20:45:21 [Order] Placing SELL order ID 5413 for 33 @ 894
+2025-10-21 20:45:21 [Trade] Matched 33 units at price 1181 (Buy:5412 Sell:5413)
+2025-10-21 20:45:21 [Order] Placing SELL order ID 5414 for 77 @ 1016
+2025-10-21 20:45:21 [Trade] Matched 67 units at price 1181 (Buy:5412 Sell:5414)
+2025-10-21 20:45:21 [Trade] Matched 10 units at price 1088 (Buy:5406 Sell:5414)
+2025-10-21 20:45:21 [Order] Placing BUY order ID 5415 for 91 @ 871
+2025-10-21 20:45:21 [Order] Placing BUY order ID 5416 for 82 @ 799
+2025-10-21 20:45:22 [Order] Placing SELL order ID 5417 for 86 @ 962
+2025-10-21 20:45:22 [Trade] Matched 1 units at price 1088 (Buy:5406 Sell:5417)
+2025-10-21 20:45:22 [Order] Placing SELL order ID 5418 for 18 @ 921
+2025-10-21 20:45:22 [Order] Placing SELL order ID 5419 for 52 @ 1192
+2025-10-21 20:45:22 [Order] Placing SELL order ID 5420 for 38 @ 1177
+2025-10-21 20:45:22 [Order] Placing SELL order ID 5421 for 39 @ 1149
+2025-10-21 20:45:22 [Order] Placing BUY order ID 5422 for 43 @ 1179
+2025-10-21 20:45:22 [Trade] Matched 18 units at price 921 (Buy:5422 Sell:5418)
+2025-10-21 20:45:22 [Trade] Matched 25 units at price 962 (Buy:5422 Sell:5417)
+2025-10-21 20:45:22 [Order] Placing BUY order ID 5423 for 97 @ 854
+2025-10-21 20:45:22 [Order] Placing BUY order ID 5424 for 43 @ 956
+2025-10-21 20:45:22 [Order] Placing BUY order ID 5425 for 47 @ 846
+2025-10-21 20:45:22 [Order] Placing BUY order ID 5426 for 53 @ 1182
+2025-10-21 20:45:22 [Trade] Matched 53 units at price 962 (Buy:5426 Sell:5417)
+2025-10-21 20:45:22 [Order] Placing SELL order ID 5427 for 63 @ 931
+2025-10-21 20:45:22 [Trade] Matched 43 units at price 956 (Buy:5424 Sell:5427)
+2025-10-21 20:45:22 [Order] Placing BUY order ID 5428 for 42 @ 887
+2025-10-21 20:45:22 [Order] Placing SELL order ID 5429 for 56 @ 1168
+2025-10-21 20:45:22 [Order] Placing SELL order ID 5430 for 78 @ 850
+2025-10-21 20:45:22 [Trade] Matched 45 units at price 909 (Buy:5407 Sell:5430)
+2025-10-21 20:45:22 [Trade] Matched 19 units at price 906 (Buy:4877 Sell:5430)
+2025-10-21 20:45:22 [Trade] Matched 14 units at price 906 (Buy:5049 Sell:5430)
+2025-10-21 20:45:22 [Order] Placing SELL order ID 5431 for 62 @ 1100
+2025-10-21 20:45:22 [Order] Placing BUY order ID 5432 for 12 @ 1159
+2025-10-21 20:45:22 [Trade] Matched 12 units at price 931 (Buy:5432 Sell:5427)
+2025-10-21 20:45:22 [Order] Placing SELL order ID 5433 for 75 @ 805
+2025-10-21 20:45:22 [Trade] Matched 75 units at price 906 (Buy:5049 Sell:5433)
+2025-10-21 20:45:22 [Order] Placing BUY order ID 5434 for 63 @ 820
+2025-10-21 20:45:22 [Order] Placing BUY order ID 5435 for 64 @ 1116
+2025-10-21 20:45:22 [Trade] Matched 8 units at price 931 (Buy:5435 Sell:5427)
+2025-10-21 20:45:22 [Trade] Matched 7 units at price 962 (Buy:5435 Sell:5417)
+2025-10-21 20:45:22 [Trade] Matched 49 units at price 1100 (Buy:5435 Sell:5431)
+2025-10-21 20:45:22 [Order] Placing SELL order ID 5436 for 83 @ 982
+2025-10-21 20:45:22 [Order] Placing BUY order ID 5437 for 27 @ 954
+2025-10-21 20:45:22 [Order] Placing BUY order ID 5438 for 23 @ 966
+2025-10-21 20:45:22 [Order] Placing SELL order ID 5439 for 65 @ 772
+2025-10-21 20:45:22 [Trade] Matched 23 units at price 966 (Buy:5438 Sell:5439)
+2025-10-21 20:45:22 [Trade] Matched 27 units at price 954 (Buy:5437 Sell:5439)
+2025-10-21 20:45:22 [Trade] Matched 5 units at price 906 (Buy:5049 Sell:5439)
+2025-10-21 20:45:22 [Trade] Matched 10 units at price 905 (Buy:5297 Sell:5439)
+2025-10-21 20:45:22 [Order] Placing SELL order ID 5440 for 59 @ 1167
+2025-10-21 20:45:23 [Order] Placing SELL order ID 5441 for 83 @ 1057
+2025-10-21 20:45:23 [Order] Placing BUY order ID 5442 for 39 @ 1122
+2025-10-21 20:45:23 [Trade] Matched 39 units at price 982 (Buy:5442 Sell:5436)
+2025-10-21 20:45:23 [Order] Placing SELL order ID 5443 for 30 @ 1233
+2025-10-21 20:45:23 [Order] Placing SELL order ID 5444 for 40 @ 917
+2025-10-21 20:45:23 [Order] Placing SELL order ID 5445 for 20 @ 946
+2025-10-21 20:45:23 [Order] Placing BUY order ID 5446 for 16 @ 876
+2025-10-21 20:45:23 [Order] Placing BUY order ID 5447 for 72 @ 882
+2025-10-21 20:45:23 [Order] Placing BUY order ID 5448 for 55 @ 1266
+2025-10-21 20:45:23 [Trade] Matched 40 units at price 917 (Buy:5448 Sell:5444)
+2025-10-21 20:45:23 [Trade] Matched 15 units at price 946 (Buy:5448 Sell:5445)
+2025-10-21 20:45:23 [Order] Placing BUY order ID 5449 for 84 @ 1107
+2025-10-21 20:45:23 [Trade] Matched 5 units at price 946 (Buy:5449 Sell:5445)
+2025-10-21 20:45:23 [Trade] Matched 44 units at price 982 (Buy:5449 Sell:5436)
+2025-10-21 20:45:23 [Trade] Matched 35 units at price 1057 (Buy:5449 Sell:5441)
+2025-10-21 20:45:23 [Order] Placing BUY order ID 5450 for 13 @ 877
+2025-10-21 20:45:23 [Order] Placing BUY order ID 5451 for 74 @ 1229
+2025-10-21 20:45:23 [Trade] Matched 48 units at price 1057 (Buy:5451 Sell:5441)
+2025-10-21 20:45:23 [Trade] Matched 13 units at price 1100 (Buy:5451 Sell:5431)
+2025-10-21 20:45:23 [Trade] Matched 13 units at price 1149 (Buy:5451 Sell:5421)
+2025-10-21 20:45:23 [Order] Placing SELL order ID 5452 for 69 @ 902
+2025-10-21 20:45:23 [Trade] Matched 54 units at price 905 (Buy:5297 Sell:5452)
+2025-10-21 20:45:23 [Trade] Matched 15 units at price 903 (Buy:5346 Sell:5452)
+2025-10-21 20:45:23 [Order] Placing SELL order ID 5453 for 55 @ 875
+2025-10-21 20:45:23 [Trade] Matched 1 units at price 903 (Buy:5346 Sell:5453)
+2025-10-21 20:45:23 [Trade] Matched 15 units at price 901 (Buy:4675 Sell:5453)
+2025-10-21 20:45:23 [Trade] Matched 39 units at price 901 (Buy:4948 Sell:5453)
+2025-10-21 20:45:23 [Order] Placing SELL order ID 5454 for 30 @ 878
+2025-10-21 20:45:23 [Trade] Matched 30 units at price 901 (Buy:4948 Sell:5454)
+2025-10-21 20:45:23 [Order] Placing BUY order ID 5455 for 38 @ 1127
+2025-10-21 20:45:23 [Order] Placing SELL order ID 5456 for 91 @ 885
+2025-10-21 20:45:23 [Trade] Matched 38 units at price 1127 (Buy:5455 Sell:5456)
+2025-10-21 20:45:23 [Trade] Matched 2 units at price 901 (Buy:4948 Sell:5456)
+2025-10-21 20:45:23 [Trade] Matched 47 units at price 901 (Buy:5281 Sell:5456)
+2025-10-21 20:45:23 [Trade] Matched 4 units at price 899 (Buy:5267 Sell:5456)
+2025-10-21 20:45:23 [Order] Placing SELL order ID 5457 for 13 @ 792
+2025-10-21 20:45:23 [Trade] Matched 13 units at price 899 (Buy:5267 Sell:5457)
+2025-10-21 20:45:23 [Order] Placing SELL order ID 5458 for 33 @ 768
+2025-10-21 20:45:23 [Trade] Matched 24 units at price 899 (Buy:5267 Sell:5458)
+2025-10-21 20:45:23 [Trade] Matched 9 units at price 897 (Buy:5127 Sell:5458)
+2025-10-21 20:45:23 [Order] Placing BUY order ID 5459 for 83 @ 1202
+2025-10-21 20:45:23 [Trade] Matched 26 units at price 1149 (Buy:5459 Sell:5421)
+2025-10-21 20:45:23 [Trade] Matched 57 units at price 1167 (Buy:5459 Sell:5440)
+2025-10-21 20:45:23 [Order] Placing SELL order ID 5460 for 50 @ 1174
+2025-10-21 20:45:23 [Order] Placing BUY order ID 5461 for 77 @ 1240
+2025-10-21 20:45:23 [Trade] Matched 2 units at price 1167 (Buy:5461 Sell:5440)
+2025-10-21 20:45:23 [Trade] Matched 56 units at price 1168 (Buy:5461 Sell:5429)
+2025-10-21 20:45:23 [Trade] Matched 19 units at price 1174 (Buy:5461 Sell:5460)
+2025-10-21 20:45:24 [Order] Placing SELL order ID 5462 for 59 @ 1134
+2025-10-21 20:45:24 [Order] Placing SELL order ID 5463 for 18 @ 1282
+2025-10-21 20:45:24 [Order] Placing SELL order ID 5464 for 67 @ 876
+2025-10-21 20:45:24 [Trade] Matched 16 units at price 897 (Buy:5127 Sell:5464)
+2025-10-21 20:45:24 [Trade] Matched 51 units at price 895 (Buy:4725 Sell:5464)
+2025-10-21 20:45:24 [Order] Placing SELL order ID 5465 for 32 @ 1058
+2025-10-21 20:45:24 [Order] Placing SELL order ID 5466 for 46 @ 1286
+2025-10-21 20:45:24 [Order] Placing BUY order ID 5467 for 34 @ 944
+2025-10-21 20:45:24 [Order] Placing SELL order ID 5468 for 38 @ 1068
+2025-10-21 20:45:24 [Order] Placing BUY order ID 5469 for 59 @ 762
+2025-10-21 20:45:24 [Order] Placing BUY order ID 5470 for 94 @ 1116
+2025-10-21 20:45:24 [Trade] Matched 32 units at price 1058 (Buy:5470 Sell:5465)
+2025-10-21 20:45:24 [Trade] Matched 38 units at price 1068 (Buy:5470 Sell:5468)
+2025-10-21 20:45:24 [Order] Placing SELL order ID 5471 for 68 @ 1007
+2025-10-21 20:45:24 [Trade] Matched 24 units at price 1116 (Buy:5470 Sell:5471)
+2025-10-21 20:45:24 [Order] Placing BUY order ID 5472 for 94 @ 760
+2025-10-21 20:45:24 [Order] Placing SELL order ID 5473 for 39 @ 775
+2025-10-21 20:45:24 [Trade] Matched 34 units at price 944 (Buy:5467 Sell:5473)
+2025-10-21 20:45:24 [Trade] Matched 5 units at price 895 (Buy:4725 Sell:5473)
+2025-10-21 20:45:24 [Order] Placing BUY order ID 5474 for 51 @ 1078
+2025-10-21 20:45:24 [Trade] Matched 44 units at price 1007 (Buy:5474 Sell:5471)
+2025-10-21 20:45:24 [Order] Placing BUY order ID 5475 for 19 @ 1172
+2025-10-21 20:45:24 [Trade] Matched 19 units at price 1134 (Buy:5475 Sell:5462)
+2025-10-21 20:45:24 [Order] Placing BUY order ID 5476 for 99 @ 1110
+2025-10-21 20:45:24 [Order] Placing SELL order ID 5477 for 28 @ 800
+2025-10-21 20:45:24 [Trade] Matched 28 units at price 1110 (Buy:5476 Sell:5477)
+2025-10-21 20:45:24 [Order] Placing SELL order ID 5478 for 67 @ 1142
+2025-10-21 20:45:24 [Order] Placing SELL order ID 5479 for 76 @ 1271
+2025-10-21 20:45:24 [Order] Placing BUY order ID 5480 for 78 @ 1166
+2025-10-21 20:45:24 [Trade] Matched 40 units at price 1134 (Buy:5480 Sell:5462)
+2025-10-21 20:45:24 [Trade] Matched 38 units at price 1142 (Buy:5480 Sell:5478)
+2025-10-21 20:45:24 [Order] Placing BUY order ID 5481 for 29 @ 1105
+2025-10-21 20:45:24 [Order] Placing BUY order ID 5482 for 72 @ 990
+2025-10-21 20:45:24 [Order] Placing BUY order ID 5483 for 74 @ 834
+2025-10-21 20:45:24 [Order] Placing BUY order ID 5484 for 10 @ 875
+2025-10-21 20:45:24 [Order] Placing SELL order ID 5485 for 35 @ 817
+2025-10-21 20:45:24 [Trade] Matched 35 units at price 1110 (Buy:5476 Sell:5485)
+2025-10-21 20:45:24 [Order] Placing BUY order ID 5486 for 42 @ 966
+2025-10-21 20:45:24 [Order] Placing SELL order ID 5487 for 63 @ 1231
+2025-10-21 20:45:24 [Order] Placing BUY order ID 5488 for 49 @ 1258
+2025-10-21 20:45:24 [Trade] Matched 29 units at price 1142 (Buy:5488 Sell:5478)
+2025-10-21 20:45:24 [Trade] Matched 20 units at price 1174 (Buy:5488 Sell:5460)
+2025-10-21 20:45:24 [Order] Placing SELL order ID 5489 for 47 @ 1150
+2025-10-21 20:45:25 [Order] Placing SELL order ID 5490 for 56 @ 1008
+2025-10-21 20:45:25 [Trade] Matched 36 units at price 1110 (Buy:5476 Sell:5490)
+2025-10-21 20:45:25 [Trade] Matched 20 units at price 1105 (Buy:5481 Sell:5490)
+2025-10-21 20:45:25 [Order] Placing BUY order ID 5491 for 15 @ 1243
+2025-10-21 20:45:25 [Trade] Matched 15 units at price 1150 (Buy:5491 Sell:5489)
+2025-10-21 20:45:25 [Order] Placing SELL order ID 5492 for 71 @ 1204
+2025-10-21 20:45:25 [Order] Placing BUY order ID 5493 for 55 @ 1009
+2025-10-21 20:45:25 [Order] Placing SELL order ID 5494 for 15 @ 1243
+2025-10-21 20:45:25 [Order] Placing SELL order ID 5495 for 60 @ 1008
+2025-10-21 20:45:25 [Trade] Matched 9 units at price 1105 (Buy:5481 Sell:5495)
+2025-10-21 20:45:25 [Trade] Matched 7 units at price 1078 (Buy:5474 Sell:5495)
+2025-10-21 20:45:25 [Trade] Matched 44 units at price 1009 (Buy:5493 Sell:5495)
+2025-10-21 20:45:25 [Order] Placing SELL order ID 5496 for 11 @ 1199
+2025-10-21 20:45:25 [Order] Placing BUY order ID 5497 for 62 @ 1299
+2025-10-21 20:45:25 [Trade] Matched 32 units at price 1150 (Buy:5497 Sell:5489)
+2025-10-21 20:45:25 [Trade] Matched 11 units at price 1174 (Buy:5497 Sell:5460)
+2025-10-21 20:45:25 [Trade] Matched 19 units at price 1177 (Buy:5497 Sell:5420)
+2025-10-21 20:45:25 [Order] Placing BUY order ID 5498 for 25 @ 788
+2025-10-21 20:45:36 [System] Order book initialized
+2025-10-21 20:45:46 [Order] Placing BUY order ID 5499 for 44 @ 4400
+2025-10-21 20:45:46 [Trade] Matched 19 units at price 1177 (Buy:5499 Sell:5420)
+2025-10-21 20:45:46 [Trade] Matched 25 units at price 1192 (Buy:5499 Sell:5419)
+2025-10-21 20:46:06 [Order] Placing SELL order ID 5500 for 44 @ 4400
+2025-10-21 20:46:17 [Order] Placing SELL order ID 5501 for 44 @ 440
+2025-10-21 20:46:17 [Trade] Matched 11 units at price 1009 (Buy:5493 Sell:5501)
+2025-10-21 20:46:17 [Trade] Matched 33 units at price 990 (Buy:5482 Sell:5501)
