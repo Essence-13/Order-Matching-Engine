@@ -917,3 +917,12 @@
 2025-10-21 20:46:17 [Order] Placing SELL order ID 5501 for 44 @ 440
 2025-10-21 20:46:17 [Trade] Matched 11 units at price 1009 (Buy:5493 Sell:5501)
 2025-10-21 20:46:17 [Trade] Matched 33 units at price 990 (Buy:5482 Sell:5501)
+2025-10-22 14:16:12 [System] Logger initialized.
+2025-10-22 14:16:12 [System] Order book initializing...
+2025-10-22 14:16:12 [System] Order book initialized successfully.
+2025-10-22 14:16:53 [Order] Placing BUY order ID 5501 for 50 @ 5000
+2025-10-22 14:16:53 [Trade] Matched 27 units at price 1192 (Buy:5501 Sell:5419)
+2025-10-22 14:16:53 [Trade] Matched 11 units at price 1199 (Buy:5501 Sell:5496)
+2025-10-22 14:16:53 [Trade] Matched 12 units at price 1200 (Buy:5501 Sell:5330)
+2025-10-22 14:16:53 [Order] Sell order 5419 is fully FILLED.
+2025-10-22 14:16:53 [Order] Sell order 5496 is fully FILLED.
