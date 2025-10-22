@@ -13,7 +13,7 @@ st_autorefresh(interval=500, key="auto-refresh")
 trades = pd.read_csv("trades.csv")
 buy_orders = pd.read_csv("buy_orders.csv")
 sell_orders = pd.read_csv("sell_orders.csv")
-order_status = pd.read_csv("order_status.csv")
+# order_status = pd.read_csv("order_status.csv")
 
 # --- Live Market Ticker ---
 if not trades.empty:
@@ -84,25 +84,25 @@ col3, col4 = st.columns(2)
 
 with col3:
     st.markdown("#### 🔵 Active Buy Orders")
-    st.dataframe(buy_orders[::-1], use_container_width=True)
+    st.dataframe(buy_orders[::-1], width=True)
 
 with col4:
     st.markdown("#### 🔴 Active Sell Orders")
-    st.dataframe(sell_orders[::-1], use_container_width=True)
+    st.dataframe(sell_orders[::-1], width=True)
 
 # --- Order Status Pie Chart ---
-st.subheader("📌 Order Status Distribution")
-if not order_status.empty:
-    status_data = order_status["Status"].value_counts().reset_index()
-    status_data.columns = ["Status", "Count"]
-    pie_chart = alt.Chart(status_data).mark_arc().encode(
-        theta="Count",
-        color="Status",
-        tooltip=["Status", "Count"]
-    )
-    st.altair_chart(pie_chart, use_container_width=True)
-else:
-    st.info("No order status data available.")
+# st.subheader("📌 Order Status Distribution")
+# if not order_status.empty:
+#     status_data = order_status["Status"].value_counts().reset_index()
+#     status_data.columns = ["Status", "Count"]
+#     pie_chart = alt.Chart(status_data).mark_arc().encode(
+#         theta="Count",
+#         color="Status",
+#         tooltip=["Status", "Count"]
+#     )
+#     st.altair_chart(pie_chart, width=True)
+# else:
+#     st.info("No order status data available.")
 
 # --- All Trades Table ---
 st.subheader("📄 Trade Log")
@@ -112,6 +112,6 @@ if not trades.empty:
     st.bar_chart(grouped.set_index("Price"))
 
     st.markdown("#### 📋 Recent Trade History")
-    st.dataframe(trades[::-1], use_container_width=True)
+    st.dataframe(trades[::-1], width=True)
 else:
     st.info("No trades yet.")

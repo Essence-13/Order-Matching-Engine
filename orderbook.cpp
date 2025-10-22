@@ -97,8 +97,8 @@ void OrderBook::processTrades(const std::vector<Trade>& trades) {
         persistence->logTrade(trade);
 
         // Update the master list of orders
-        allOrders.at(trade.buyOrderId).filled_quantity += trade.quantity;
-        allOrders.at(trade.sellOrderId).filled_quantity += trade.quantity;
+        // allOrders.at(trade.buyOrderId).filled_quantity += trade.quantity;
+        // allOrders.at(trade.sellOrderId).filled_quantity += trade.quantity;
     }
 
     // Clean up filled orders from the master list
