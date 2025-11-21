@@ -1,6 +1,7 @@
 # Order Matching Engine Simulator
 
 A high-performance C++ based order matching engine that simulates a stock exchange environment. It supports live order book matching, order status tracking, persistent trade logs, and an interactive real-time dashboard built with Streamlit.
+Matching Engine capable of processing ˜ 1.48 million orders per second (benchmarked on an optimized-O3 build).
 
 ## Features
 
